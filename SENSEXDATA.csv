@@ -1,0 +1,3000 @@
+121214,NSC_Sensex _report,SIP,California,26252,27000,15
+121215,NSC_Sensex _report,ShortTerm,NewYork,5500,6000,12
+121216,NSC_Sensex _report,SIP,NewDelhi,5252,65000,25
+121217,NSC_Sensex _report,ShortTerm,California,17000,18500,27
+121218,NSC_Sensex _report,ShortTerm,NewYork,4500,5500,22
+121219,LSA_Sensex_report,Daily,Hyderabad,25432,28645,5
+121220,LSA_Sensex_report,SIP,California,25000,26000,25
+121221,LSA_Sensex_report,SIP,California,45000,49356,36
+121222,LSA_Sensex_report,SIP,NewYork,8965,9654,45
+121223,LSA_Sensex_report,SIP,Hyderabad,3654,5000,46
+121224,LSA_Sensex_report,SIP,Hyderabad,5656,6464,13
+121225,LSA_Sensex_report,ShortTerm,NewYork,25525,25600,11
+121226,LSA_Sensex_report,ShortTerm,NewDelhi,26252,27000,53
+121227,LSA_Sensex_report,Daily,Hyderabad,5500,6000,15
+121228,LSA_Sensex_report,LongTerm,California,5252,65000,26
+121229,LSA_Sensex_report,ShortTerm,California,17000,18500,25
+121230,MGK_Sensex_report,ShortTerm,California,4500,5500,24
+121231,MGK_Sensex_report,ShortTerm,Hyderabad,25432,28645,23
+121232,MGK_Sensex_report,ShortTerm,NewYork,25000,26000,22
+121233,MGK_Sensex_report,LongTerm,California,45000,49356,21
+121234,MGK_Sensex_report,LongTerm,California,8965,9654,20
+121235,MGK_Sensex_report,SIP,NewDelhi,3654,5000,19
+121236,MGK_Sensex_report,SIP,NewDelhi,5656,6464,18
+121237,MGK_Sensex_report,ShortTerm,Hyderabad,4532,5623,17
+121238,MGK_Sensex_report,ShortTerm,Hyderabad,4563,5368,16
+121239,MGK_Sensex_report,ShortTerm,NewYork,2456,5632,15
+121240,MGK_Sensex_report,ShortTerm,NewDelhi,3214,8956,14
+121241,MGK_Sensex_report,ShortTerm,Hyderabad,865,5432,13
+121242,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+121243,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+121244,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+121245,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+121246,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+121247,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+121248,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+121249,MGK_Sensex_report,SIP,California,5656,6464,36
+121250,MGK_Sensex_report,SIP,California,25525,25600,45
+121251,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+121252,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+121253,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+121254,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+121255,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+121256,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+121257,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+121258,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+121259,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+121260,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+121261,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+121262,NSC_Sensex _report,LongTerm,California,4500,5500,27
+121263,NSC_Sensex _report,SIP,California,25432,28645,22
+121264,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+121265,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+121266,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+121267,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+121268,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+121269,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+121270,LSA_Sensex_report,SIP,California,26252,27000,11
+121271,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+121272,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+121273,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+121274,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+121275,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+121276,LSA_Sensex_report,Daily,California,25000,26000,23
+121277,LSA_Sensex_report,SIP,California,45000,49356,22
+121278,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+121279,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+121280,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+121281,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+121282,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+121283,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+121284,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+121285,CDA_Sensex_report,SIP,California,25100,26000,11
+121286,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+121287,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+121288,CDA_Sensex_report,SIP,California,26722,35000,43
+121289,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+121290,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+121291,CDA_Sensex_report,SIP,California,3654,19000,23
+121292,CDA_Sensex_report,SIP,California,5656,18000,25
+121293,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+121294,CDA_Sensex_report,SIP,California,4563,16005,25
+121295,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+121296,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+121297,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+121298,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+121299,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+121300,CDA_Sensex_report,SIP,California,26252,27000,11
+121301,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+121302,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+121303,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+121304,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+121305,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+121306,NSC_Sensex _report,Daily,California,25000,26000,23
+121307,NSC_Sensex _report,SIP,California,45000,49356,22
+121308,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+121309,NSC_Sensex _report,LongTerm,California,4563,9654,23
+121310,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+121311,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+121312,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+121313,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+121314,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+121315,LSA_Sensex_report,LongTerm,California,26252,65000,54
+121316,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+121317,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+121318,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+121319,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+121320,LSA_Sensex_report,LongTerm,California,5252,18500,15
+121321,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+121322,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+121323,LSA_Sensex_report,SIP,California,25432,26000,12
+121324,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+121325,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+121326,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+121327,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+121328,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+121329,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+121330,MGK_Sensex_report,SIP,California,26252,26000,45
+121331,MGK_Sensex_report,LongTerm,California,5500,49356,46
+121332,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+121333,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+121334,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+121335,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+121336,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+121337,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+121338,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+121339,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+121340,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+121341,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+121342,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+121343,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+121344,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+121345,MGK_Sensex_report,ShortTerm,California,865,5000,17
+121346,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+121347,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+121348,NSC_Sensex _report,ShortTerm,California,25432,865,14
+121349,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+121350,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+121351,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+121352,NSC_Sensex _report,Daily,California,3654,25000,25
+121353,NSC_Sensex _report,SIP,California,5656,45000,27
+121354,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+121355,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+121356,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+121357,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+121358,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+121359,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+121360,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+121361,NSC_Sensex _report,Daily,California,25000,17000,11
+121362,NSC_Sensex _report,SIP,California,45000,4500,53
+121363,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+121364,NSC_Sensex _report,SIP,California,3654,5321,26
+121365,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+121366,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+121367,LSA_Sensex_report,Daily,California,5500,17000,23
+121368,LSA_Sensex_report,SIP,California,28645,4500,22
+121369,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+121370,LSA_Sensex_report,SIP,California,49356,25000,27
+121371,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+121372,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+121373,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+121374,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+121375,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+121376,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+121377,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+121378,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+121379,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+121380,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+121381,CDA_Sensex_report,LongTerm,California,25600,25432,26
+121382,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+121383,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+121384,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+121385,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+121386,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+121387,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+121388,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+121389,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+121390,CDA_Sensex_report,SIP,California,9654,3214,14
+121391,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+121392,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+121393,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+121394,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+121395,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+121396,CDA_Sensex_report,SIP,California,8965,45000,43
+121397,CDA_Sensex_report,SIP,California,3654,8965,21
+121398,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+121399,CDA_Sensex_report,SIP,California,4532,5656,23
+121400,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+121401,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+121402,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+121403,NSC_Sensex _report,Daily,NewYork,865,5252,25
+121404,NSC_Sensex _report,LongTerm,Hyderabad,17000,17000,36
+121405,NSC_Sensex _report,ShortTerm,California,53220,4500,54
+121406,NSC_Sensex _report,ShortTerm,Hyderabad,4532,25432,46
+121407,NSC_Sensex _report,ShortTerm,NewYork,4500,25000,13
+121408,NSC_Sensex _report,ShortTerm,NewDelhi,25432,45000,11
+121409,NSC_Sensex _report,LongTerm,NewDelhi,25000,8965,53
+121410,NSC_Sensex _report,LongTerm,California,45000,3654,15
+121411,NSC_Sensex _report,Daily,NewDelhi,25525,25600,10
+121412,NSC_Sensex _report,SIP,California,26252,27000,15
+121413,NSC_Sensex _report,ShortTerm,NewYork,5500,6000,12
+121414,NSC_Sensex _report,SIP,NewDelhi,5252,65000,25
+121415,NSC_Sensex _report,ShortTerm,California,17000,18500,27
+121416,NSC_Sensex _report,ShortTerm,NewYork,4500,5500,22
+121417,LSA_Sensex_report,Daily,Hyderabad,25432,28645,5
+121418,LSA_Sensex_report,SIP,California,25000,26000,25
+121419,LSA_Sensex_report,SIP,California,45000,49356,36
+121420,LSA_Sensex_report,SIP,NewYork,8965,9654,45
+121421,LSA_Sensex_report,SIP,Hyderabad,3654,5000,46
+121422,LSA_Sensex_report,SIP,Hyderabad,5656,6464,13
+121423,LSA_Sensex_report,ShortTerm,NewYork,25525,25600,11
+121424,LSA_Sensex_report,ShortTerm,NewDelhi,26252,27000,53
+121425,LSA_Sensex_report,Daily,Hyderabad,5500,6000,15
+121426,LSA_Sensex_report,LongTerm,California,5252,65000,26
+121427,LSA_Sensex_report,ShortTerm,California,17000,18500,25
+121428,MGK_Sensex_report,ShortTerm,California,4500,5500,24
+121429,MGK_Sensex_report,ShortTerm,Hyderabad,25432,28645,23
+121430,MGK_Sensex_report,ShortTerm,NewYork,25000,26000,22
+121431,MGK_Sensex_report,LongTerm,California,45000,49356,21
+121432,MGK_Sensex_report,LongTerm,California,8965,9654,20
+121433,MGK_Sensex_report,SIP,NewDelhi,3654,5000,19
+121434,MGK_Sensex_report,SIP,NewDelhi,5656,6464,18
+121435,MGK_Sensex_report,ShortTerm,Hyderabad,4532,5623,17
+121436,MGK_Sensex_report,ShortTerm,Hyderabad,4563,5368,16
+121437,MGK_Sensex_report,ShortTerm,NewYork,2456,5632,15
+121438,MGK_Sensex_report,ShortTerm,NewDelhi,3214,8956,14
+121439,MGK_Sensex_report,ShortTerm,Hyderabad,865,5432,13
+121440,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+121441,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+121442,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+121443,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+121444,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+121445,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+121446,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+121447,MGK_Sensex_report,SIP,California,5656,6464,36
+121448,MGK_Sensex_report,SIP,California,25525,25600,45
+121449,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+121450,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+121451,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+121452,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+121453,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+121454,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+121455,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+121456,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+121457,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+121458,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+121459,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+121460,NSC_Sensex _report,LongTerm,California,4500,5500,27
+121461,NSC_Sensex _report,SIP,California,25432,28645,22
+121462,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+121463,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+121464,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+121465,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+121466,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+121467,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+121468,LSA_Sensex_report,SIP,California,26252,27000,11
+121469,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+121470,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+121471,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+121472,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+121473,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+121474,LSA_Sensex_report,Daily,California,25000,26000,23
+121475,LSA_Sensex_report,SIP,California,45000,49356,22
+121476,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+121477,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+121478,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+121479,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+121480,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+121481,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+121482,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+121483,CDA_Sensex_report,SIP,California,25100,26000,11
+121484,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+121485,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+121486,CDA_Sensex_report,SIP,California,26722,35000,43
+121487,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+121488,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+121489,CDA_Sensex_report,SIP,California,3654,19000,23
+121490,CDA_Sensex_report,SIP,California,5656,18000,25
+121491,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+121492,CDA_Sensex_report,SIP,California,4563,16005,25
+121493,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+121494,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+121495,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+121496,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+121497,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+121498,CDA_Sensex_report,SIP,California,26252,27000,11
+121499,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+121500,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+121501,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+121502,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+121503,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+121504,NSC_Sensex _report,Daily,California,25000,26000,23
+121505,NSC_Sensex _report,SIP,California,45000,49356,22
+121506,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+121507,NSC_Sensex _report,LongTerm,California,4563,9654,23
+121508,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+121509,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+121510,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+121511,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+121512,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+121513,LSA_Sensex_report,LongTerm,California,26252,65000,54
+121514,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+121515,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+121516,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+121517,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+121518,LSA_Sensex_report,LongTerm,California,5252,18500,15
+121519,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+121520,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+121521,LSA_Sensex_report,SIP,California,25432,26000,12
+121522,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+121523,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+121524,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+121525,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+121526,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+121527,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+121528,MGK_Sensex_report,SIP,California,26252,26000,45
+121529,MGK_Sensex_report,LongTerm,California,5500,49356,46
+121530,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+121531,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+121532,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+121533,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+121534,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+121535,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+121536,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+121537,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+121538,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+121539,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+121540,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+121541,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+121542,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+121543,MGK_Sensex_report,ShortTerm,California,865,5000,17
+121544,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+121545,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+121546,NSC_Sensex _report,ShortTerm,California,25432,865,14
+121547,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+121548,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+121549,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+121550,NSC_Sensex _report,Daily,California,3654,25000,25
+121551,NSC_Sensex _report,SIP,California,5656,45000,27
+121552,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+121553,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+121554,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+121555,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+121556,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+121557,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+121558,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+121559,NSC_Sensex _report,Daily,California,25000,17000,11
+121560,NSC_Sensex _report,SIP,California,45000,4500,53
+121561,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+121562,NSC_Sensex _report,SIP,California,3654,5321,26
+121563,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+121564,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+121565,LSA_Sensex_report,Daily,California,5500,17000,23
+121566,LSA_Sensex_report,SIP,California,28645,4500,22
+121567,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+121568,LSA_Sensex_report,SIP,California,49356,25000,27
+121569,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+121570,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+121571,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+121572,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+121573,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+121574,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+121575,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+121576,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+121577,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+121578,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+121579,CDA_Sensex_report,LongTerm,California,25600,25432,26
+121580,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+121581,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+121582,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+121583,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+121584,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+121585,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+121586,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+121587,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+121588,CDA_Sensex_report,SIP,California,9654,3214,14
+121589,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+121590,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+121591,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+121592,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+121593,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+121594,CDA_Sensex_report,SIP,California,8965,45000,43
+121595,CDA_Sensex_report,SIP,California,3654,8965,21
+121596,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+121597,CDA_Sensex_report,SIP,California,4532,5656,23
+121598,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+121599,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+121600,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+121601,CDA_Sensex_report,ShortTerm,Kolkata,45000,8965,14
+121602,CDA_Sensex_report,ShortTerm,California,8965,3654,13
+121603,CDA_Sensex_report,LongTerm,Hyderabad,3652,5656,16
+121604,CDA_Sensex_report,LongTerm,Hyderabad,5656,4532,11
+121605,CDA_Sensex_report,SIP,NewYork,25525,4563,15
+121606,LSA_Sensex_report,SIP,NewDelhi,26252,2456,16
+121607,LSA_Sensex_report,LongTerm,Kolkata,5523,3214,43
+121608,LSA_Sensex_report,SIP,California,5252,865,21
+121609,LSA_Sensex_report,Daily,NewDelhi,17000,3654,22
+121610,LSA_Sensex_report,LongTerm,NewDelhi,5500,5656,23
+121611,LSA_Sensex_report,ShortTerm,California,5252,25525,25
+121612,LSA_Sensex_report,ShortTerm,NewYork,17000,26252,26
+121613,LSA_Sensex_report,ShortTerm,Hyderabad,8965,17000,26
+121614,LSA_Sensex_report,ShortTerm,California,3654,4500,25
+121615,LSA_Sensex_report,LongTerm,California,26000,26252,46
+121616,LSA_Sensex_report,LongTerm,NewYork,49356,5500,13
+121617,LSA_Sensex_report,SIP,Hyderabad,9654,5252,11
+121618,LSA_Sensex_report,SIP,Hyderabad,5000,17000,53
+121619,LSA_Sensex_report,ShortTerm,NewYork,6464,4500,15
+121620,LSA_Sensex_report,ShortTerm,NewDelhi,25600,25432,26
+121621,MGK_Sensex_report,ShortTerm,Hyderabad,27000,25000,25
+121622,MGK_Sensex_report,ShortTerm,California,6000,45000,24
+121623,MGK_Sensex_report,ShortTerm,California,65000,8965,23
+121624,MGK_Sensex_report,SIP,California,18500,3654,22
+121625,MGK_Sensex_report,ShortTerm,Hyderabad,5500,5656,25
+121626,MGK_Sensex_report,SIP,NewYork,28645,4532,21
+121627,MGK_Sensex_report,ShortTerm,California,26000,4563,26
+121628,MGK_Sensex_report,ShortTerm,California,49356,2456,17
+121629,MGK_Sensex_report,Daily,NewDelhi,9654,3214,14
+121630,MGK_Sensex_report,SIP,California,5000,865,13
+121631,MGK_Sensex_report,SIP,California,4500,17000,16
+121632,MGK_Sensex_report,SIP,NewDelhi,25432,4500,11
+121633,MGK_Sensex_report,SIP,California,25000,25432,15
+121634,MGK_Sensex_report,SIP,NewDelhi,45000,25000,16
+121635,MGK_Sensex_report,ShortTerm,Hyderabad,8965,45000,43
+121636,MGK_Sensex_report,ShortTerm,NewDelhi,3654,8965,21
+121637,MGK_Sensex_report,Daily,NewYork,45000,4500,53
+121638,MGK_Sensex_report,LongTerm,Hyderabad,8965,25432,15
+121639,MGK_Sensex_report,ShortTerm,California,3654,25000,26
+121640,MGK_Sensex_report,ShortTerm,Hyderabad,5656,45000,25
+121641,MGK_Sensex_report,ShortTerm,NewYork,25525,8965,24
+121642,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,23
+121643,MGK_Sensex_report,LongTerm,NewDelhi,5500,5656,22
+121644,MGK_Sensex_report,LongTerm,California,5252,25525,21
+121645,MGK_Sensex_report,SIP,NewYork,17000,26252,20
+121646,MGK_Sensex_report,SIP,Hyderabad,4500,5500,19
+121647,MGK_Sensex_report,ShortTerm,California,25432,5252,18
+121648,MGK_Sensex_report,ShortTerm,California,25000,17000,17
+121649,MGK_Sensex_report,ShortTerm,NewYork,45000,4500,16
+121650,MGK_Sensex_report,ShortTerm,California,8965,25432,15
+121651,MGK_Sensex_report,ShortTerm,NewDelhi,3654,5321,14
+121652,MGK_Sensex_report,SIP,California,17000,5500,13
+121653,MGK_Sensex_report,SIP,California,18500,5252,15
+121654,MGK_Sensex_report,LongTerm,NewDelhi,5500,17000,12
+121655,MGK_Sensex_report,LongTerm,California,28645,4500,25
+121656,MGK_Sensex_report,ShortTerm,NewDelhi,26000,25432,27
+121657,MGK_Sensex_report,Daily,Hyderabad,49356,25000,22
+121658,MGK_Sensex_report,Daily,NewDelhi,9654,45000,5
+121659,MGK_Sensex_report,SIP,NewYork,5000,8965,25
+121660,MGK_Sensex_report,ShortTerm,Hyderabad,18500,3654,36
+121661,MGK_Sensex_report,LongTerm,California,5500,5656,45
+121662,MGK_Sensex_report,ShortTerm,Hyderabad,28645,25525,46
+121663,MGK_Sensex_report,LongTerm,NewYork,26000,26252,13
+121664,LSA_Sensex_report,Daily,NewDelhi,49356,5500,11
+121665,LSA_Sensex_report,Daily,NewDelhi,9654,5252,53
+121666,LSA_Sensex_report,SIP,California,5000,17000,15
+121667,LSA_Sensex_report,ShortTerm,NewYork,45000,4500,26
+121668,LSA_Sensex_report,SIP,Hyderabad,8965,25432,25
+121669,LSA_Sensex_report,ShortTerm,California,3654,25000,24
+121670,LSA_Sensex_report,ShortTerm,California,5656,45000,23
+121671,LSA_Sensex_report,Daily,NewYork,25525,8965,22
+121672,NSC_Sensex _report,SIP,California,26252,3654,25
+121673,NSC_Sensex _report,SIP,NewDelhi,5632,2365,12
+121674,NSC_Sensex _report,SIP,NewYork,4521,1254,15
+121675,NSC_Sensex _report,SIP,California,6598,12365,18
+121676,NSC_Sensex _report,SIP,Hyderabad,5478,45780,26
+121677,NSC_Sensex _report,LongTerm,California,28645,5523,15
+121678,NSC_Sensex _report,Daily,NewYork,26000,5252,26
+121679,NSC_Sensex _report,Daily,California,49356,17000,25
+121680,NSC_Sensex _report,SIP,NewDelhi,9654,5500,24
+121681,NSC_Sensex _report,ShortTerm,California,5000,5252,23
+121682,NSC_Sensex _report,SIP,California,4500,17000,22
+121683,NSC_Sensex _report,ShortTerm,NewDelhi,25432,4500,25
+121684,NSC_Sensex _report,ShortTerm,California,25000,25432,21
+121685,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+121686,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+121687,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+121688,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+121689,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+121690,NSC_Sensex _report,SIP,California,3654,865,11
+121691,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+121692,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+121693,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+121694,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+121695,NSC_Sensex _report,ShortTerm,California,1230,5500,22
+121696,NSC_Sensex _report,SIP,NewYork,45236,5252,23
+121697,CDA_Sensex_report,ShortTerm,Hyderabad,5632,17000,25
+121698,CDA_Sensex_report,LongTerm,California,25525,4500,26
+121699,CDA_Sensex_report,Daily,California,26252,25432,15
+121700,CDA_Sensex_report,ShortTerm,NewYork,5523,25000,26
+121701,CDA_Sensex_report,SIP,California,5252,45000,25
+121702,MGK_Sensex_report,SIP,NewDelhi,8965,25432,25
+121703,MGK_Sensex_report,SIP,California,3654,25000,24
+121704,MGK_Sensex_report,SIP,NewDelhi,5656,45000,23
+121705,MGK_Sensex_report,ShortTerm,Hyderabad,25525,8965,22
+121706,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,25
+121707,MGK_Sensex_report,Daily,NewYork,5500,5656,27
+121708,MGK_Sensex_report,LongTerm,Hyderabad,5252,25525,22
+121709,NSC_Sensex _report,ShortTerm,California,17000,26252,5
+121710,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,25
+121711,NSC_Sensex _report,ShortTerm,NewYork,25432,5252,53
+121712,NSC_Sensex _report,ShortTerm,NewDelhi,25000,17000,15
+121713,NSC_Sensex _report,LongTerm,NewDelhi,45000,4500,26
+121714,NSC_Sensex _report,LongTerm,California,8965,25432,25
+121715,NSC_Sensex _report,ShortTerm,NewYork,3654,5321,24
+121716,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,23
+121717,NSC_Sensex _report,Daily,California,18500,5252,22
+121718,NSC_Sensex _report,SIP,California,5500,17000,21
+121719,NSC_Sensex _report,SIP,NewYork,28645,4500,20
+121720,NSC_Sensex _report,SIP,Hyderabad,26000,25432,19
+121721,NSC_Sensex _report,SIP,Hyderabad,49356,25000,18
+121722,NSC_Sensex _report,SIP,NewYork,9654,45000,17
+121723,NSC_Sensex _report,ShortTerm,NewDelhi,5000,8965,16
+121724,NSC_Sensex _report,ShortTerm,Hyderabad,18500,3654,15
+121725,NSC_Sensex _report,Daily,California,5500,5656,14
+121726,NSC_Sensex _report,LongTerm,California,28645,25525,13
+121727,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+121728,LSA_Sensex_report,ShortTerm,Hyderabad,49356,5500,12
+121729,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,25
+121730,LSA_Sensex_report,ShortTerm,California,5000,17000,27
+121731,LSA_Sensex_report,LongTerm,California,17000,1230,22
+121732,LSA_Sensex_report,LongTerm,NewDelhi,53220,45236,5
+121733,LSA_Sensex_report,SIP,California,4532,5632,25
+121734,MGK_Sensex_report,SIP,California,4500,25525,36
+121735,MGK_Sensex_report,ShortTerm,NewDelhi,25432,26252,45
+121736,MGK_Sensex_report,ShortTerm,California,25000,5523,46
+121737,MGK_Sensex_report,ShortTerm,NewDelhi,45000,5252,13
+121738,MGK_Sensex_report,ShortTerm,Hyderabad,8965,17000,11
+121739,MGK_Sensex_report,ShortTerm,NewDelhi,3654,4500,53
+121740,MGK_Sensex_report,SIP,NewYork,26000,25432,15
+121741,MGK_Sensex_report,SIP,Hyderabad,49356,25000,26
+121742,MGK_Sensex_report,LongTerm,California,9654,45000,25
+121743,MGK_Sensex_report,LongTerm,Hyderabad,5000,8965,24
+121744,MGK_Sensex_report,ShortTerm,NewYork,6464,4563,23
+121745,MGK_Sensex_report,Daily,NewDelhi,25600,45000,22
+121746,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+121747,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+121748,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+121749,LSA_Sensex_report,SIP,California,865,5656,25
+121750,LSA_Sensex_report,SIP,California,17000,4532,26
+121751,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+121752,LSA_Sensex_report,LongTerm,California,5689,2456,25
+121753,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+121754,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+121755,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+121756,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+121757,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+121758,CDA_Sensex_report,LongTerm,California,25525,25600,13
+121759,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+121760,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+121761,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+121762,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+121763,CDA_Sensex_report,SIP,California,4500,5500,25
+121764,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+121765,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+121766,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+121767,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+121768,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+121769,NSC_Sensex _report,SIP,California,45000,5000,25
+121770,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+121771,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+121772,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+121773,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+121774,LSA_Sensex_report,SIP,California,865,5656,25
+121775,LSA_Sensex_report,SIP,California,17000,4532,26
+121776,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+121777,LSA_Sensex_report,LongTerm,California,5689,2456,25
+121778,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+121779,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+121780,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+121781,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+121782,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+121783,CDA_Sensex_report,LongTerm,California,25525,25600,13
+121784,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+121785,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+121786,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+121787,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+121788,CDA_Sensex_report,SIP,California,4500,5500,25
+121789,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+121790,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+121791,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+121792,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+121793,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+121794,NSC_Sensex _report,SIP,California,45000,5000,25
+121795,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+121796,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+121797,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+121798,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+121799,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+121800,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+121801,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+121802,CDA_Sensex_report,SIP,California,9654,3214,14
+121803,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+121804,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+121805,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+121806,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+121807,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+121808,CDA_Sensex_report,SIP,California,8965,45000,43
+121809,CDA_Sensex_report,SIP,California,3654,8965,21
+121810,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+121811,CDA_Sensex_report,SIP,California,4532,5656,23
+121812,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+121813,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+121814,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+121815,NSC_Sensex _report,Daily,NewYork,865,5252,25
+121816,NSC_Sensex _report,LongTerm,Hyderabad,17000,17000,36
+121817,NSC_Sensex _report,ShortTerm,California,53220,4500,54
+121818,NSC_Sensex _report,ShortTerm,Hyderabad,4532,25432,46
+121819,NSC_Sensex _report,ShortTerm,NewYork,4500,25000,13
+121820,NSC_Sensex _report,ShortTerm,NewDelhi,25432,45000,11
+121821,NSC_Sensex _report,LongTerm,NewDelhi,25000,8965,53
+121822,NSC_Sensex _report,LongTerm,California,45000,3654,15
+121823,LSA_Sensex_report,SIP,NewYork,8965,17000,26
+121824,LSA_Sensex_report,SIP,Hyderabad,3654,4500,25
+121825,LSA_Sensex_report,ShortTerm,California,5656,25432,24
+121826,LSA_Sensex_report,ShortTerm,California,4532,25000,23
+121827,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+121828,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+121829,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+121830,LSA_Sensex_report,SIP,California,865,5656,25
+121831,LSA_Sensex_report,SIP,California,17000,4532,26
+121832,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+121833,LSA_Sensex_report,LongTerm,California,5689,2456,25
+121834,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+121835,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+121836,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+121837,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+121838,CDA_Sensex_report,SIP,Hyderabad,5656,26252,13
+121839,CDA_Sensex_report,ShortTerm,California,25525,5500,11
+121840,CDA_Sensex_report,ShortTerm,Hyderabad,26252,5252,53
+121841,CDA_Sensex_report,ShortTerm,NewYork,5500,17000,15
+121842,CDA_Sensex_report,ShortTerm,NewDelhi,5252,4500,26
+121843,CDA_Sensex_report,ShortTerm,NewYork,17000,25432,25
+121844,CDA_Sensex_report,SIP,California,4500,25000,24
+121845,CDA_Sensex_report,ShortTerm,NewDelhi,25432,45000,23
+121846,CDA_Sensex_report,SIP,California,25000,8965,22
+121847,CDA_Sensex_report,ShortTerm,California,45000,3654,25
+121848,CDA_Sensex_report,ShortTerm,NewDelhi,8965,2365,12
+121849,CDA_Sensex_report,Daily,California,3654,1254,15
+121850,CDA_Sensex_report,SIP,NewDelhi,17000,12365,18
+121851,CDA_Sensex_report,SIP,Hyderabad,18500,45780,26
+121852,CDA_Sensex_report,SIP,NewDelhi,5500,5523,15
+121853,CDA_Sensex_report,SIP,NewYork,28645,5252,26
+121854,CDA_Sensex_report,SIP,Hyderabad,26000,17000,25
+121855,CDA_Sensex_report,ShortTerm,California,49356,5500,24
+121856,NSC_Sensex _report,ShortTerm,Hyderabad,9654,5252,23
+121857,NSC_Sensex _report,Daily,NewYork,5000,17000,22
+121858,NSC_Sensex _report,LongTerm,NewDelhi,18500,4500,25
+121859,NSC_Sensex _report,ShortTerm,NewDelhi,5500,3654,13
+121860,NSC_Sensex _report,ShortTerm,California,28645,5656,16
+121861,NSC_Sensex _report,ShortTerm,NewYork,26000,4532,11
+121862,NSC_Sensex _report,ShortTerm,Hyderabad,49356,4563,15
+121863,NSC_Sensex _report,LongTerm,California,9654,2456,16
+121864,NSC_Sensex _report,LongTerm,California,5000,3214,43
+121865,LSA_Sensex_report,SIP,NewYork,17000,865,21
+121866,LSA_Sensex_report,SIP,NewDelhi,53220,3654,22
+121867,LSA_Sensex_report,ShortTerm,NewYork,4532,5656,23
+121868,NSC_Sensex _report,Daily,Hyderabad,4500,25525,25
+121869,NSC_Sensex _report,SIP,California,25432,26252,26
+121870,NSC_Sensex _report,ShortTerm,Hyderabad,25000,17000,26
+121871,NSC_Sensex _report,SIP,NewYork,45000,4500,25
+121872,NSC_Sensex _report,ShortTerm,NewDelhi,8965,26252,46
+121873,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5500,13
+121874,LSA_Sensex_report,Daily,California,26000,5252,11
+121875,LSA_Sensex_report,SIP,NewYork,49356,17000,53
+121876,LSA_Sensex_report,SIP,Hyderabad,9654,4500,15
+121877,LSA_Sensex_report,SIP,California,5000,25432,26
+121878,LSA_Sensex_report,SIP,California,2456,25000,25
+121879,LSA_Sensex_report,SIP,NewYork,3214,45000,24
+121880,LSA_Sensex_report,ShortTerm,California,865,8965,23
+121881,LSA_Sensex_report,ShortTerm,NewDelhi,3654,3654,22
+121882,LSA_Sensex_report,Daily,California,5656,5656,25
+121883,LSA_Sensex_report,LongTerm,California,25525,4532,21
+121884,LSA_Sensex_report,ShortTerm,NewDelhi,26252,4563,26
+121885,MGK_Sensex_report,ShortTerm,California,17000,2456,17
+121886,MGK_Sensex_report,ShortTerm,NewDelhi,4500,3214,14
+121887,MGK_Sensex_report,ShortTerm,Hyderabad,26252,865,13
+121888,MGK_Sensex_report,LongTerm,NewDelhi,5500,17000,16
+121889,MGK_Sensex_report,LongTerm,Hyderabad,8965,4500,11
+121890,MGK_Sensex_report,SIP,California,3654,25432,15
+121891,MGK_Sensex_report,SIP,California,26000,25000,16
+121892,MGK_Sensex_report,ShortTerm,NewYork,49356,45000,43
+121893,MGK_Sensex_report,ShortTerm,Hyderabad,9654,8965,21
+121894,MGK_Sensex_report,ShortTerm,Hyderabad,5000,4500,53
+121895,MGK_Sensex_report,ShortTerm,NewYork,6464,25432,15
+121896,MGK_Sensex_report,ShortTerm,NewDelhi,25600,25000,26
+121897,MGK_Sensex_report,SIP,Hyderabad,27000,45000,25
+121898,MGK_Sensex_report,ShortTerm,California,6000,8965,24
+121899,MGK_Sensex_report,SIP,California,65000,3654,23
+121900,MGK_Sensex_report,ShortTerm,California,18500,5656,22
+121901,MGK_Sensex_report,ShortTerm,Hyderabad,5500,25525,21
+121902,MGK_Sensex_report,Daily,NewYork,28645,26252,20
+121903,MGK_Sensex_report,SIP,California,26000,5500,19
+121904,MGK_Sensex_report,SIP,California,49356,5252,18
+121905,MGK_Sensex_report,SIP,NewDelhi,9654,17000,17
+121906,NSC_Sensex _report,SIP,California,5000,4500,16
+121907,NSC_Sensex _report,SIP,California,4500,25432,15
+121908,NSC_Sensex _report,ShortTerm,NewDelhi,25432,5321,14
+121909,NSC_Sensex _report,ShortTerm,California,25000,5500,13
+121910,NSC_Sensex _report,Daily,NewDelhi,45000,5252,15
+121911,NSC_Sensex _report,LongTerm,Hyderabad,8965,17000,12
+121912,NSC_Sensex _report,ShortTerm,NewDelhi,3654,4500,25
+121913,NSC_Sensex _report,ShortTerm,NewYork,45000,25432,27
+121914,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25000,22
+121915,NSC_Sensex _report,ShortTerm,California,3654,45000,5
+121916,NSC_Sensex _report,LongTerm,Hyderabad,5656,8965,25
+121917,NSC_Sensex _report,LongTerm,NewYork,25525,3654,36
+121918,NSC_Sensex _report,SIP,NewDelhi,26252,5656,45
+121919,NSC_Sensex _report,SIP,NewDelhi,5500,25525,46
+121920,NSC_Sensex _report,ShortTerm,California,5252,26252,13
+121921,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,11
+121922,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5252,53
+121923,NSC_Sensex _report,ShortTerm,California,25432,17000,15
+121924,NSC_Sensex _report,ShortTerm,California,25000,4500,26
+121925,LSA_Sensex_report,SIP,NewYork,45000,25432,25
+121926,LSA_Sensex_report,SIP,California,8965,25000,24
+121927,LSA_Sensex_report,LongTerm,NewDelhi,3654,45000,23
+121928,LSA_Sensex_report,LongTerm,California,17000,8965,22
+121929,LSA_Sensex_report,ShortTerm,California,18500,3654,25
+121930,LSA_Sensex_report,Daily,NewDelhi,5500,2365,12
+121931,LSA_Sensex_report,Daily,California,28645,1254,15
+121932,LSA_Sensex_report,SIP,NewDelhi,26000,12365,18
+121933,LSA_Sensex_report,ShortTerm,Hyderabad,49356,45780,26
+121934,LSA_Sensex_report,LongTerm,NewDelhi,9654,5523,15
+121935,LSA_Sensex_report,ShortTerm,NewYork,5000,5252,26
+121936,LSA_Sensex_report,LongTerm,Hyderabad,18500,17000,25
+121937,LSA_Sensex_report,Daily,California,5500,5500,24
+121938,CDA_Sensex_report,ShortTerm,Hyderabad,28645,5252,23
+121939,CDA_Sensex_report,ShortTerm,NewYork,26000,17000,22
+121940,CDA_Sensex_report,SIP,NewDelhi,49356,4500,25
+121941,CDA_Sensex_report,SIP,NewDelhi,9654,25432,21
+121942,CDA_Sensex_report,SIP,California,5000,5500,26
+121943,CDA_Sensex_report,SIP,NewYork,45000,4532,17
+121944,CDA_Sensex_report,SIP,Hyderabad,8965,4563,14
+121945,CDA_Sensex_report,SIP,California,3654,2456,13
+121946,CDA_Sensex_report,SIP,California,5656,3214,16
+121947,CDA_Sensex_report,SIP,NewYork,25525,45000,25
+121948,CDA_Sensex_report,SIP,California,26252,8965,24
+121949,CDA_Sensex_report,SIP,NewDelhi,5632,3654,23
+121950,CDA_Sensex_report,ShortTerm,NewYork,4521,5656,22
+121951,CDA_Sensex_report,ShortTerm,California,6598,25525,21
+121952,CDA_Sensex_report,ShortTerm,Hyderabad,5478,26252,20
+121953,CDA_Sensex_report,ShortTerm,California,28645,5500,19
+121954,CDA_Sensex_report,ShortTerm,NewYork,26000,5252,18
+121955,CDA_Sensex_report,SIP,California,49356,17000,17
+121956,CDA_Sensex_report,SIP,NewDelhi,9654,4500,16
+121957,CDA_Sensex_report,SIP,California,5000,25432,15
+121958,NSC_Sensex _report,ShortTerm,California,4500,5321,14
+121959,NSC_Sensex _report,ShortTerm,NewDelhi,25432,5500,13
+121960,NSC_Sensex _report,Daily,California,25000,5252,15
+121961,NSC_Sensex _report,SIP,NewDelhi,45000,17000,12
+121962,NSC_Sensex _report,SIP,Hyderabad,8965,4500,25
+121963,LSA_Sensex_report,ShortTerm,NewDelhi,3654,25432,27
+121964,LSA_Sensex_report,ShortTerm,NewYork,45000,25000,22
+121965,LSA_Sensex_report,ShortTerm,Hyderabad,8965,45000,5
+121966,LSA_Sensex_report,SIP,California,3654,8965,25
+121967,LSA_Sensex_report,SIP,Hyderabad,5656,3654,36
+121968,LSA_Sensex_report,LongTerm,NewYork,25525,5656,45
+121969,LSA_Sensex_report,LongTerm,NewDelhi,26252,25525,46
+121970,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26252,13
+121971,LSA_Sensex_report,Daily,California,49356,5500,11
+121972,CDA_Sensex_report,Daily,California,9654,5252,53
+121973,CDA_Sensex_report,SIP,Hyderabad,5000,17000,15
+121974,CDA_Sensex_report,ShortTerm,NewYork,4500,4500,26
+121975,CDA_Sensex_report,LongTerm,California,25432,25432,25
+121976,CDA_Sensex_report,ShortTerm,California,25000,25000,24
+121977,CDA_Sensex_report,LongTerm,NewDelhi,45000,45000,23
+121978,CDA_Sensex_report,Daily,California,8965,8965,22
+121979,CDA_Sensex_report,Daily,California,3654,3654,25
+121980,CDA_Sensex_report,SIP,NewDelhi,5656,2365,12
+121981,CDA_Sensex_report,ShortTerm,California,4532,1254,15
+121982,CDA_Sensex_report,SIP,NewDelhi,4563,12365,18
+121983,NSC_Sensex _report,ShortTerm,Hyderabad,2456,45780,26
+121984,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5523,15
+121985,NSC_Sensex _report,Daily,NewYork,865,5252,26
+121986,NSC_Sensex _report,SIP,Hyderabad,17000,17000,25
+121987,NSC_Sensex _report,SIP,California,53220,5500,24
+121988,CDA_Sensex_report,SIP,Hyderabad,4532,5252,23
+121989,CDA_Sensex_report,ShortTerm,NewYork,4500,17000,22
+121990,CDA_Sensex_report,ShortTerm,NewDelhi,25432,4500,25
+121991,CDA_Sensex_report,ShortTerm,NewDelhi,25000,25432,21
+121992,CDA_Sensex_report,ShortTerm,California,45000,5500,26
+121993,CDA_Sensex_report,ShortTerm,NewYork,8965,4532,17
+121994,CDA_Sensex_report,SIP,Hyderabad,3654,4563,14
+121995,CDA_Sensex_report,ShortTerm,California,5656,2456,13
+121996,CDA_Sensex_report,SIP,California,4532,3214,16
+121997,CDA_Sensex_report,ShortTerm,NewYork,4563,865,11
+121998,CDA_Sensex_report,ShortTerm,California,2456,3654,15
+121999,CDA_Sensex_report,Daily,NewDelhi,3214,5656,16
+122000,MGK_Sensex_report,SIP,California,865,25525,43
+122001,MGK_Sensex_report,SIP,California,17000,26252,21
+122002,MGK_Sensex_report,SIP,NewDelhi,7856,5500,22
+122003,MGK_Sensex_report,SIP,California,5689,5252,23
+122004,MGK_Sensex_report,SIP,NewDelhi,4532,17000,25
+122005,MGK_Sensex_report,ShortTerm,Hyderabad,12536,4500,26
+122006,MGK_Sensex_report,ShortTerm,NewDelhi,1230,25432,15
+122007,MGK_Sensex_report,ShortTerm,NewYork,45236,25000,26
+122008,MGK_Sensex_report,ShortTerm,Hyderabad,5656,45000,25
+122009,MGK_Sensex_report,ShortTerm,California,25525,25432,25
+122010,MGK_Sensex_report,SIP,Hyderabad,26252,25000,24
+122011,MGK_Sensex_report,SIP,NewYork,5500,45000,23
+122012,MGK_Sensex_report,SIP,NewDelhi,5252,8965,22
+122013,MGK_Sensex_report,ShortTerm,NewYork,17000,3654,25
+122014,MGK_Sensex_report,ShortTerm,California,4500,5656,27
+122015,MGK_Sensex_report,Daily,NewDelhi,25432,25525,22
+122016,MGK_Sensex_report,SIP,California,25000,26252,5
+122017,MGK_Sensex_report,SIP,California,45000,5500,25
+122018,MGK_Sensex_report,Daily,NewDelhi,8965,5252,53
+122019,MGK_Sensex_report,ShortTerm,California,3654,17000,15
+122020,MGK_Sensex_report,LongTerm,NewDelhi,17000,4500,26
+122021,MGK_Sensex_report,SIP,Hyderabad,18500,25432,25
+122022,MGK_Sensex_report,SIP,NewDelhi,5500,5321,24
+122023,CDA_Sensex_report,SIP,NewYork,28645,5500,23
+122024,CDA_Sensex_report,SIP,Hyderabad,26000,5252,22
+122025,CDA_Sensex_report,SIP,California,49356,17000,21
+122026,CDA_Sensex_report,ShortTerm,Hyderabad,9654,4500,20
+122027,CDA_Sensex_report,ShortTerm,NewYork,5000,25432,19
+122028,CDA_Sensex_report,ShortTerm,NewDelhi,18500,25000,18
+122029,CDA_Sensex_report,ShortTerm,NewDelhi,5500,45000,17
+122030,CDA_Sensex_report,ShortTerm,California,28645,8965,16
+122031,CDA_Sensex_report,SIP,NewYork,26000,3654,15
+122032,CDA_Sensex_report,SIP,Hyderabad,49356,5656,14
+122033,CDA_Sensex_report,SIP,California,9654,25525,13
+122034,CDA_Sensex_report,ShortTerm,California,5000,26252,15
+122035,CDA_Sensex_report,ShortTerm,NewYork,17000,5500,12
+122036,CDA_Sensex_report,Daily,NewDelhi,53220,5252,25
+122037,CDA_Sensex_report,SIP,NewYork,4532,17000,27
+122038,CDA_Sensex_report,SIP,Hyderabad,4500,1230,22
+122039,CDA_Sensex_report,ShortTerm,California,25432,45236,5
+122040,CDA_Sensex_report,ShortTerm,Hyderabad,25000,5632,25
+122041,CDA_Sensex_report,ShortTerm,NewYork,45000,45000,23
+122042,CDA_Sensex_report,SIP,NewDelhi,8965,8965,12
+122043,CDA_Sensex_report,SIP,NewDelhi,3654,3654,15
+122044,CDA_Sensex_report,LongTerm,California,26000,5656,13
+122045,CDA_Sensex_report,LongTerm,NewYork,49356,25525,11
+122046,CDA_Sensex_report,ShortTerm,Hyderabad,9654,26252,25
+122047,CDA_Sensex_report,Daily,California,5000,5500,23
+122048,CDA_Sensex_report,Daily,California,2456,5252,24
+122049,CDA_Sensex_report,SIP,NewYork,3214,17000,27
+122050,CDA_Sensex_report,ShortTerm,California,865,4500,28
+122051,CDA_Sensex_report,LongTerm,NewDelhi,3654,25432,36
+122052,CDA_Sensex_report,ShortTerm,California,5656,5321,24
+122053,CDA_Sensex_report,LongTerm,California,25525,5500,26
+122054,CDA_Sensex_report,Daily,NewDelhi,26252,5252,23
+122055,CDA_Sensex_report,Daily,California,17000,17000,56
+122056,CDA_Sensex_report,SIP,NewDelhi,4500,4500,36
+122057,CDA_Sensex_report,ShortTerm,Hyderabad,26252,25432,35
+122058,CDA_Sensex_report,SIP,NewDelhi,5500,25000,86
+122059,CDA_Sensex_report,ShortTerm,Hyderabad,8965,45000,12
+122060,CDA_Sensex_report,ShortTerm,California,3654,1111,98
+122061,CDA_Sensex_report,Daily,California,26000,1523,54
+122062,CDA_Sensex_report,LongTerm,NewYork,49356,4563,26
+122063,CDA_Sensex_report,ShortTerm,Hyderabad,9654,13655,25
+122064,CDA_Sensex_report,SIP,Hyderabad,5000,23659,54
+122065,CDA_Sensex_report,Daily,NewYork,6464,5432,36
+122066,CDA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+122067,CDA_Sensex_report,ShortTerm,California,2456,8965,25
+122068,CDA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+122069,CDA_Sensex_report,SIP,California,865,5656,25
+122070,CDA_Sensex_report,SIP,California,17000,4532,26
+122071,CDA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+122072,CDA_Sensex_report,LongTerm,California,5689,2456,25
+122073,CDA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+122074,CDA_Sensex_report,Daily,Hyderabad,12536,865,54
+122075,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+122076,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+122077,NSC_Sensex _report,ShortTerm,Hyderabad,5632,5632,11
+122078,NSC_Sensex _report,LongTerm,California,25525,25600,13
+122079,NSC_Sensex _report,ShortTerm,Hyderabad,26252,27000,11
+122080,NSC_Sensex _report,LongTerm,NewYork,5523,5668,53
+122081,NSC_Sensex _report,Daily,NewDelhi,5252,65000,15
+122082,NSC_Sensex _report,Daily,NewDelhi,17000,18500,26
+122083,NSC_Sensex _report,SIP,California,4500,5500,25
+122084,NSC_Sensex _report,ShortTerm,NewYork,25432,28645,24
+122085,NSC_Sensex _report,SIP,Hyderabad,25000,26000,23
+122086,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+122087,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+122088,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+122089,NSC_Sensex _report,SIP,California,45000,5000,25
+122090,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+122091,NSC_Sensex _report,SIP,NewYork,3652,25600,25
+122092,NSC_Sensex _report,SIP,California,5656,27000,25
+122093,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+122094,NSC_Sensex _report,ShortTerm,Hyderabad,26252,65000,54
+122095,NSC_Sensex _report,ShortTerm,NewYork,5523,18500,46
+122096,NSC_Sensex _report,Daily,NewDelhi,5252,5500,13
+122097,NSC_Sensex _report,LongTerm,Kolkata,17000,28645,11
+122098,NSC_Sensex _report,ShortTerm,California,5500,26000,53
+122099,NSC_Sensex _report,SIP,Hyderabad,5252,18500,15
+122100,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,10
+122101,NSC_Sensex _report,LongTerm,NewYork,4500,28645,15
+122102,NSC_Sensex _report,Daily,NewDelhi,25432,26000,12
+122103,NSC_Sensex _report,ShortTerm,Kolkata,5500,26000,53
+122104,NSC_Sensex _report,SIP,California,4532,5656,23
+122105,NSC_Sensex _report,SIP,NewDelhi,4563,25525,25
+122106,NSC_Sensex _report,ShortTerm,Hyderabad,2456,26252,26
+122107,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+122108,NSC_Sensex _report,Daily,NewYork,865,5252,25
+122109,NSC_Sensex _report,LongTerm,Hyderabad,17000,17000,36
+122110,NSC_Sensex _report,ShortTerm,California,53220,4500,54
+122111,NSC_Sensex _report,ShortTerm,Hyderabad,4532,25432,46
+122112,NSC_Sensex _report,ShortTerm,NewYork,4500,25000,13
+122113,NSC_Sensex _report,ShortTerm,NewDelhi,25432,45000,11
+122114,NSC_Sensex _report,LongTerm,NewDelhi,25000,8965,53
+122115,NSC_Sensex _report,LongTerm,California,45000,3654,15
+122116,NSC_Sensex _report,SIP,NewYork,8965,17000,26
+122117,NSC_Sensex _report,SIP,Hyderabad,3654,4500,25
+122118,NSC_Sensex _report,LongTerm,NewDelhi,26000,26252,46
+122119,NSC_Sensex _report,ShortTerm,California,49356,5500,13
+122120,NSC_Sensex _report,ShortTerm,NewYork,9654,5252,11
+122121,NSC_Sensex _report,ShortTerm,Hyderabad,5000,17000,53
+122122,NSC_Sensex _report,ShortTerm,California,6464,4500,15
+122123,NSC_Sensex _report,LongTerm,California,25600,25432,26
+122124,NSC_Sensex _report,LongTerm,NewYork,27000,25000,25
+122125,NSC_Sensex _report,SIP,Hyderabad,6000,45000,24
+122126,NSC_Sensex _report,SIP,Hyderabad,65000,8965,23
+122127,NSC_Sensex _report,SIP,Hyderabad,8965,4563,14
+122128,NSC_Sensex _report,SIP,California,3654,2456,13
+122129,NSC_Sensex _report,SIP,California,5656,3214,16
+122130,NSC_Sensex _report,SIP,NewYork,25525,45000,25
+122131,NSC_Sensex _report,SIP,California,26252,8965,24
+122132,NSC_Sensex _report,SIP,NewDelhi,5632,3654,23
+122133,NSC_Sensex _report,ShortTerm,NewYork,4521,5656,22
+122134,NSC_Sensex _report,ShortTerm,California,6598,25525,21
+122135,NSC_Sensex _report,ShortTerm,Hyderabad,5478,26252,20
+122136,NSC_Sensex _report,ShortTerm,California,28645,5500,19
+122137,NSC_Sensex _report,ShortTerm,NewYork,26000,5252,18
+122138,NSC_Sensex _report,SIP,California,49356,17000,17
+122139,NSC_Sensex _report,SIP,NewDelhi,9654,4500,16
+122140,NSC_Sensex _report,SIP,California,5000,25432,15
+122141,NSC_Sensex _report,ShortTerm,California,4500,5321,14
+122142,NSC_Sensex _report,ShortTerm,NewDelhi,25432,5500,13
+122143,NSC_Sensex _report,Daily,California,25000,5252,15
+122144,NSC_Sensex _report,SIP,NewDelhi,45000,17000,12
+122145,NSC_Sensex _report,SIP,Hyderabad,8965,4500,25
+122146,NSC_Sensex _report,ShortTerm,NewDelhi,3654,25432,27
+122147,NSC_Sensex _report,ShortTerm,NewYork,45000,25000,22
+122148,NSC_Sensex _report,ShortTerm,Hyderabad,8965,45000,5
+122149,NSC_Sensex _report,SIP,California,3654,8965,25
+122150,NSC_Sensex _report,SIP,Hyderabad,5656,3654,36
+122151,NSC_Sensex _report,ShortTerm,NewYork,28645,4500,25
+122152,NSC_Sensex _report,ShortTerm,NewDelhi,26000,25432,27
+122153,NSC_Sensex _report,ShortTerm,Hyderabad,49356,25000,22
+122154,NSC_Sensex _report,ShortTerm,California,9654,45000,5
+122155,NSC_Sensex _report,ShortTerm,California,5000,8965,25
+122156,NSC_Sensex _report,SIP,California,18500,3654,36
+122157,NSC_Sensex _report,ShortTerm,Hyderabad,5500,5656,45
+122158,NSC_Sensex _report,SIP,NewYork,28645,25525,46
+122159,NSC_Sensex _report,ShortTerm,California,26000,26252,13
+122160,NSC_Sensex _report,ShortTerm,California,49356,5500,11
+122161,NSC_Sensex _report,Daily,NewDelhi,9654,5252,53
+122162,NSC_Sensex _report,SIP,California,5000,17000,15
+122163,NSC_Sensex _report,SIP,California,45000,4500,26
+122164,NSC_Sensex _report,SIP,NewDelhi,8965,25432,25
+122165,NSC_Sensex _report,SIP,California,3654,25000,24
+122166,NSC_Sensex _report,SIP,NewDelhi,5656,45000,23
+122167,NSC_Sensex _report,ShortTerm,Hyderabad,25525,8965,22
+122168,NSC_Sensex _report,ShortTerm,NewDelhi,26252,3654,25
+122169,NSC_Sensex _report,Daily,NewYork,5500,5656,27
+122170,NSC_Sensex _report,LongTerm,Hyderabad,5252,25525,22
+122171,NSC_Sensex _report,ShortTerm,California,17000,26252,5
+122172,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,25
+122173,NSC_Sensex _report,ShortTerm,NewYork,25432,5252,53
+122174,NSC_Sensex _report,ShortTerm,NewDelhi,25000,17000,15
+122175,NSC_Sensex _report,LongTerm,NewDelhi,45000,4500,26
+122176,NSC_Sensex _report,LongTerm,California,8965,25432,25
+122177,NSC_Sensex _report,ShortTerm,NewYork,3654,5321,24
+122178,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,23
+122179,NSC_Sensex _report,Daily,California,18500,5252,22
+122180,NSC_Sensex _report,SIP,California,5500,17000,21
+122181,NSC_Sensex _report,SIP,NewYork,28645,4500,20
+122182,NSC_Sensex _report,SIP,Hyderabad,26000,25432,19
+122183,NSC_Sensex _report,SIP,Hyderabad,49356,25000,18
+122184,NSC_Sensex _report,SIP,NewYork,9654,45000,17
+122185,NSC_Sensex _report,ShortTerm,NewDelhi,5000,8965,16
+122186,NSC_Sensex _report,ShortTerm,Hyderabad,18500,3654,15
+122187,NSC_Sensex _report,Daily,California,5500,5656,14
+122188,NSC_Sensex _report,LongTerm,California,28645,25525,13
+122189,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+122190,NSC_Sensex _report,ShortTerm,Hyderabad,49356,5500,12
+122191,NSC_Sensex _report,ShortTerm,NewYork,9654,5252,25
+122192,NSC_Sensex _report,ShortTerm,California,5000,17000,27
+122193,NSC_Sensex _report,LongTerm,California,17000,1230,22
+122194,NSC_Sensex _report,LongTerm,NewDelhi,53220,45236,5
+122195,NSC_Sensex _report,SIP,California,4532,5632,25
+122196,NSC_Sensex _report,SIP,California,4500,25525,36
+122197,NSC_Sensex _report,ShortTerm,NewDelhi,25432,26252,45
+122198,NSC_Sensex _report,ShortTerm,California,25000,5523,46
+122199,NSC_Sensex _report,ShortTerm,NewDelhi,45000,5252,13
+122200,NSC_Sensex _report,ShortTerm,Hyderabad,8965,17000,11
+122201,NSC_Sensex _report,ShortTerm,NewDelhi,3654,4500,53
+122202,NSC_Sensex _report,SIP,NewYork,26000,25432,15
+122203,NSC_Sensex _report,SIP,Hyderabad,49356,25000,26
+122204,NSC_Sensex _report,LongTerm,California,9654,45000,25
+122205,NSC_Sensex _report,LongTerm,Hyderabad,5000,8965,24
+122206,NSC_Sensex _report,ShortTerm,NewYork,6464,4563,23
+122207,NSC_Sensex _report,Daily,NewDelhi,25600,45000,22
+122208,NSC_Sensex _report,Daily,NewDelhi,27000,8965,25
+122209,NSC_Sensex _report,SIP,California,6000,3652,27
+122210,NSC_Sensex _report,ShortTerm,NewYork,65000,5656,22
+122211,NSC_Sensex _report,LongTerm,Hyderabad,18500,25525,5
+122212,NSC_Sensex _report,ShortTerm,California,5500,26252,25
+122213,NSC_Sensex _report,LongTerm,California,28645,5523,15
+122214,NSC_Sensex _report,Daily,NewYork,26000,5252,26
+122215,NSC_Sensex _report,Daily,California,49356,17000,25
+122216,NSC_Sensex _report,SIP,NewDelhi,9654,5500,24
+122217,NSC_Sensex _report,ShortTerm,California,5000,5252,23
+122218,NSC_Sensex _report,SIP,California,4500,17000,22
+122219,NSC_Sensex _report,ShortTerm,NewDelhi,25432,4500,25
+122220,NSC_Sensex _report,ShortTerm,California,25000,25432,21
+122221,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+122222,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+122223,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+122224,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+122225,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+122226,NSC_Sensex _report,SIP,California,3654,865,11
+122227,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+122228,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+122229,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+122230,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+122231,NSC_Sensex _report,ShortTerm,California,1230,5500,22
+122232,NSC_Sensex _report,SIP,NewYork,45236,5252,23
+122233,NSC_Sensex _report,ShortTerm,Hyderabad,5632,17000,25
+122234,NSC_Sensex _report,LongTerm,California,25525,4500,26
+122235,NSC_Sensex _report,Daily,California,26252,25432,15
+122236,NSC_Sensex _report,ShortTerm,NewYork,5523,25000,26
+122237,NSC_Sensex _report,SIP,California,5252,45000,25
+122238,NSC_Sensex _report,SIP,NewDelhi,17000,8965,24
+122239,NSC_Sensex _report,ShortTerm,NewYork,4500,3654,23
+122240,NSC_Sensex _report,ShortTerm,California,25432,17000,22
+122241,NSC_Sensex _report,Daily,Hyderabad,25000,4500,25
+122242,LSA_Sensex_report,LongTerm,Hyderabad,45000,25432,21
+122243,LSA_Sensex_report,ShortTerm,NewYork,8965,25000,26
+122244,LSA_Sensex_report,ShortTerm,NewDelhi,4563,45000,17
+122245,LSA_Sensex_report,ShortTerm,Kolkata,45000,8965,14
+122246,LSA_Sensex_report,ShortTerm,California,8965,3654,13
+122247,LSA_Sensex_report,LongTerm,Hyderabad,3652,5656,16
+122248,LSA_Sensex_report,LongTerm,Hyderabad,5656,4532,11
+122249,LSA_Sensex_report,SIP,NewYork,25525,4563,15
+122250,LSA_Sensex_report,SIP,NewDelhi,26252,2456,16
+122251,LSA_Sensex_report,LongTerm,Kolkata,5523,3214,43
+122252,LSA_Sensex_report,SIP,California,5252,865,21
+122253,MGK_Sensex_report,Daily,NewDelhi,17000,3654,22
+122254,MGK_Sensex_report,LongTerm,NewDelhi,5500,5656,23
+122255,MGK_Sensex_report,ShortTerm,California,5252,25525,25
+122256,MGK_Sensex_report,ShortTerm,NewYork,17000,26252,26
+122257,MGK_Sensex_report,ShortTerm,Hyderabad,8965,17000,26
+122258,MGK_Sensex_report,ShortTerm,California,3654,4500,25
+122259,MGK_Sensex_report,LongTerm,California,26000,26252,46
+122260,MGK_Sensex_report,LongTerm,NewYork,49356,5500,13
+122261,MGK_Sensex_report,SIP,Hyderabad,9654,5252,11
+122262,MGK_Sensex_report,SIP,Hyderabad,5000,17000,53
+122263,MGK_Sensex_report,ShortTerm,NewYork,6464,4500,15
+122264,MGK_Sensex_report,ShortTerm,NewDelhi,25600,25432,26
+122265,MGK_Sensex_report,ShortTerm,Hyderabad,27000,25000,25
+122266,MGK_Sensex_report,ShortTerm,California,6000,45000,24
+122267,MGK_Sensex_report,ShortTerm,California,65000,8965,23
+122268,MGK_Sensex_report,SIP,California,18500,3654,22
+122269,MGK_Sensex_report,ShortTerm,Hyderabad,5500,5656,25
+122270,MGK_Sensex_report,SIP,NewYork,28645,4532,21
+122271,MGK_Sensex_report,ShortTerm,California,26000,4563,26
+122272,MGK_Sensex_report,ShortTerm,California,49356,2456,17
+122273,MGK_Sensex_report,Daily,NewDelhi,9654,3214,14
+122274,NSC_Sensex _report,SIP,California,5000,865,13
+122275,NSC_Sensex _report,SIP,California,4500,17000,16
+122276,NSC_Sensex _report,SIP,NewDelhi,25432,4500,11
+122277,NSC_Sensex _report,SIP,California,25000,25432,15
+122278,NSC_Sensex _report,SIP,NewDelhi,45000,25000,16
+122279,NSC_Sensex _report,ShortTerm,Hyderabad,8965,45000,43
+122280,NSC_Sensex _report,ShortTerm,NewDelhi,3654,8965,21
+122281,NSC_Sensex _report,Daily,NewYork,45000,4500,53
+122282,NSC_Sensex _report,LongTerm,Hyderabad,8965,25432,15
+122283,NSC_Sensex _report,ShortTerm,California,3654,25000,26
+122284,NSC_Sensex _report,ShortTerm,Hyderabad,5656,45000,25
+122285,NSC_Sensex _report,ShortTerm,NewYork,25525,8965,24
+122286,NSC_Sensex _report,ShortTerm,NewDelhi,26252,3654,23
+122287,NSC_Sensex _report,LongTerm,NewDelhi,5500,5656,22
+122288,NSC_Sensex _report,LongTerm,California,5252,25525,21
+122289,NSC_Sensex _report,SIP,NewYork,17000,26252,20
+122290,NSC_Sensex _report,SIP,Hyderabad,4500,5500,19
+122291,NSC_Sensex _report,ShortTerm,California,25432,5252,18
+122292,NSC_Sensex _report,ShortTerm,California,25000,17000,17
+122293,LSA_Sensex_report,ShortTerm,NewYork,45000,4500,16
+122294,LSA_Sensex_report,ShortTerm,California,8965,25432,15
+122295,LSA_Sensex_report,ShortTerm,NewDelhi,3654,5321,14
+122296,LSA_Sensex_report,SIP,California,17000,5500,13
+122297,LSA_Sensex_report,SIP,California,18500,5252,15
+122298,LSA_Sensex_report,LongTerm,NewDelhi,5500,17000,12
+122299,LSA_Sensex_report,LongTerm,California,28645,4500,25
+122300,LSA_Sensex_report,ShortTerm,NewDelhi,26000,25432,27
+122301,LSA_Sensex_report,Daily,Hyderabad,49356,25000,22
+122302,LSA_Sensex_report,Daily,NewDelhi,9654,45000,5
+122303,LSA_Sensex_report,SIP,NewYork,5000,8965,25
+122304,LSA_Sensex_report,ShortTerm,Hyderabad,18500,3654,36
+122305,LSA_Sensex_report,LongTerm,California,5500,5656,45
+122306,CDA_Sensex_report,ShortTerm,Hyderabad,28645,25525,46
+122307,CDA_Sensex_report,LongTerm,NewYork,26000,26252,13
+122308,CDA_Sensex_report,Daily,NewDelhi,49356,5500,11
+122309,CDA_Sensex_report,Daily,NewDelhi,9654,5252,53
+122310,CDA_Sensex_report,SIP,California,5000,17000,15
+122311,CDA_Sensex_report,ShortTerm,NewYork,45000,4500,26
+122312,CDA_Sensex_report,SIP,Hyderabad,8965,25432,25
+122313,CDA_Sensex_report,ShortTerm,California,3654,25000,24
+122314,CDA_Sensex_report,ShortTerm,California,5656,45000,23
+122315,CDA_Sensex_report,Daily,NewYork,25525,8965,22
+122316,CDA_Sensex_report,SIP,California,26252,3654,25
+122317,CDA_Sensex_report,SIP,NewDelhi,5632,2365,12
+122318,CDA_Sensex_report,SIP,NewYork,4521,1254,15
+122319,CDA_Sensex_report,SIP,California,6598,12365,18
+122320,CDA_Sensex_report,SIP,Hyderabad,5478,45780,26
+122321,CDA_Sensex_report,LongTerm,California,28645,5523,15
+122322,CDA_Sensex_report,Daily,NewYork,26000,5252,26
+122323,CDA_Sensex_report,Daily,California,49356,17000,25
+122324,CDA_Sensex_report,SIP,NewDelhi,9654,5500,24
+122325,CDA_Sensex_report,ShortTerm,California,5000,5252,23
+122326,CDA_Sensex_report,SIP,California,4500,17000,22
+122327,CDA_Sensex_report,ShortTerm,NewDelhi,25432,4500,25
+122328,CDA_Sensex_report,ShortTerm,California,25000,25432,21
+122329,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+122330,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+122331,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+122332,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+122333,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+122334,NSC_Sensex _report,SIP,California,3654,865,11
+122335,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+122336,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+122337,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+122338,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+122339,LSA_Sensex_report,ShortTerm,California,1230,5500,22
+122340,LSA_Sensex_report,SIP,NewYork,45236,5252,23
+122341,LSA_Sensex_report,ShortTerm,Hyderabad,5632,17000,25
+122342,LSA_Sensex_report,LongTerm,California,25525,4500,26
+122343,LSA_Sensex_report,Daily,California,26252,25432,15
+122344,LSA_Sensex_report,ShortTerm,NewYork,5523,25000,26
+122345,LSA_Sensex_report,SIP,California,5252,45000,25
+122346,LSA_Sensex_report,SIP,NewDelhi,8965,25432,25
+122347,LSA_Sensex_report,SIP,California,3654,25000,24
+122348,LSA_Sensex_report,SIP,NewDelhi,5656,45000,23
+122349,LSA_Sensex_report,ShortTerm,Hyderabad,25525,8965,22
+122350,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,25
+122351,MGK_Sensex_report,Daily,NewYork,5500,5656,27
+122352,MGK_Sensex_report,LongTerm,Hyderabad,5252,25525,22
+122353,MGK_Sensex_report,ShortTerm,California,17000,26252,5
+122354,MGK_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+122355,MGK_Sensex_report,ShortTerm,NewYork,25432,5252,53
+122356,MGK_Sensex_report,ShortTerm,NewDelhi,25000,17000,15
+122357,MGK_Sensex_report,LongTerm,NewDelhi,45000,4500,26
+122358,MGK_Sensex_report,LongTerm,California,8965,25432,25
+122359,MGK_Sensex_report,ShortTerm,NewYork,3654,5321,24
+122360,MGK_Sensex_report,ShortTerm,Hyderabad,17000,5500,23
+122361,MGK_Sensex_report,Daily,California,18500,5252,22
+122362,MGK_Sensex_report,SIP,California,5500,17000,21
+122363,MGK_Sensex_report,SIP,NewYork,28645,4500,20
+122364,MGK_Sensex_report,SIP,Hyderabad,26000,25432,19
+122365,MGK_Sensex_report,SIP,Hyderabad,49356,25000,18
+122366,MGK_Sensex_report,SIP,NewYork,9654,45000,17
+122367,MGK_Sensex_report,ShortTerm,NewDelhi,5000,8965,16
+122368,MGK_Sensex_report,ShortTerm,Hyderabad,18500,3654,15
+122369,MGK_Sensex_report,Daily,California,5500,5656,14
+122370,MGK_Sensex_report,LongTerm,California,28645,25525,13
+122371,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+122372,NSC_Sensex _report,ShortTerm,Hyderabad,49356,5500,12
+122373,NSC_Sensex _report,ShortTerm,NewYork,9654,5252,25
+122374,NSC_Sensex _report,ShortTerm,California,5000,17000,27
+122375,NSC_Sensex _report,LongTerm,California,17000,1230,22
+122376,NSC_Sensex _report,LongTerm,NewDelhi,53220,45236,5
+122377,NSC_Sensex _report,SIP,California,4532,5632,25
+122378,NSC_Sensex _report,SIP,California,4500,25525,36
+122379,NSC_Sensex _report,ShortTerm,NewDelhi,25432,26252,45
+122380,NSC_Sensex _report,ShortTerm,California,25000,5523,46
+122381,NSC_Sensex _report,ShortTerm,NewDelhi,45000,5252,13
+122382,NSC_Sensex _report,ShortTerm,Hyderabad,8965,17000,11
+122383,NSC_Sensex _report,ShortTerm,NewDelhi,3654,4500,53
+122384,NSC_Sensex _report,SIP,NewYork,26000,25432,15
+122385,NSC_Sensex _report,SIP,Hyderabad,49356,25000,26
+122386,NSC_Sensex _report,LongTerm,California,9654,45000,25
+122387,NSC_Sensex _report,LongTerm,Hyderabad,5000,8965,24
+122388,NSC_Sensex _report,ShortTerm,NewYork,6464,4563,23
+122389,NSC_Sensex _report,Daily,NewDelhi,25600,45000,22
+122390,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+122391,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+122392,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+122393,LSA_Sensex_report,SIP,California,865,5656,25
+122394,LSA_Sensex_report,SIP,California,17000,4532,26
+122395,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+122396,LSA_Sensex_report,LongTerm,California,5689,2456,25
+122397,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+122398,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+122399,LSA_Sensex_report,Daily,NewDelhi,1230,17000,46
+122400,LSA_Sensex_report,SIP,NewYork,45236,45962,13
+122401,LSA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+122402,LSA_Sensex_report,LongTerm,California,25525,25600,13
+122403,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+122404,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+122405,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+122406,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+122407,CDA_Sensex_report,SIP,California,4500,5500,25
+122408,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+122409,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+122410,CDA_Sensex_report,ShortTerm,California,45000,49356,22
+122411,CDA_Sensex_report,ShortTerm,California,8965,9654,25
+122412,CDA_Sensex_report,Daily,NewYork,4563,9654,23
+122413,CDA_Sensex_report,SIP,California,45000,5000,25
+122414,CDA_Sensex_report,SIP,NewDelhi,8965,6464,26
+122415,CDA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+122416,CDA_Sensex_report,ShortTerm,California,2456,8965,25
+122417,CDA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+122418,CDA_Sensex_report,SIP,California,865,5656,25
+122419,CDA_Sensex_report,SIP,California,17000,4532,26
+122420,CDA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+122421,CDA_Sensex_report,LongTerm,California,5689,2456,25
+122422,CDA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+122423,CDA_Sensex_report,Daily,Hyderabad,12536,865,54
+122424,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+122425,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+122426,NSC_Sensex _report,ShortTerm,Hyderabad,5632,5632,11
+122427,NSC_Sensex _report,LongTerm,California,25525,25600,13
+122428,NSC_Sensex _report,ShortTerm,Hyderabad,26252,27000,11
+122429,NSC_Sensex _report,LongTerm,NewYork,5523,5668,53
+122430,NSC_Sensex _report,Daily,NewDelhi,5252,65000,15
+122431,NSC_Sensex _report,Daily,NewDelhi,17000,18500,26
+122432,NSC_Sensex _report,SIP,California,4500,5500,25
+122433,NSC_Sensex _report,ShortTerm,NewYork,25432,28645,24
+122434,NSC_Sensex _report,SIP,Hyderabad,25000,26000,23
+122435,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+122436,LSA_Sensex_report,ShortTerm,California,8965,9654,25
+122437,LSA_Sensex_report,Daily,NewYork,4563,9654,23
+122438,LSA_Sensex_report,SIP,California,45000,5000,25
+122439,LSA_Sensex_report,SIP,NewDelhi,8965,6464,26
+122440,LSA_Sensex_report,SIP,Hyderabad,65000,8965,23
+122441,LSA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+122442,LSA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+122443,LSA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+122444,LSA_Sensex_report,ShortTerm,California,26000,4563,26
+122445,LSA_Sensex_report,ShortTerm,California,49356,2456,17
+122446,LSA_Sensex_report,SIP,California,9654,3214,14
+122447,MGK_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+122448,MGK_Sensex_report,SIP,NewYork,4500,17000,16
+122449,MGK_Sensex_report,ShortTerm,California,25432,4500,11
+122450,MGK_Sensex_report,ShortTerm,California,25000,25432,15
+122451,MGK_Sensex_report,Daily,NewDelhi,45000,25000,16
+122452,MGK_Sensex_report,SIP,California,8965,45000,43
+122453,MGK_Sensex_report,SIP,California,3654,8965,21
+122454,MGK_Sensex_report,SIP,NewDelhi,5656,3654,22
+122455,MGK_Sensex_report,SIP,California,4532,5656,23
+122456,MGK_Sensex_report,SIP,NewDelhi,4563,25525,25
+122457,MGK_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+122458,MGK_Sensex_report,ShortTerm,NewDelhi,3214,5500,25
+122459,MGK_Sensex_report,Daily,NewYork,865,5252,25
+122460,MGK_Sensex_report,LongTerm,Hyderabad,17000,17000,36
+122461,MGK_Sensex_report,ShortTerm,California,53220,4500,54
+122462,MGK_Sensex_report,ShortTerm,Hyderabad,4532,25432,46
+122463,MGK_Sensex_report,ShortTerm,NewYork,4500,25000,13
+122464,MGK_Sensex_report,ShortTerm,NewDelhi,25432,45000,11
+122465,MGK_Sensex_report,LongTerm,NewDelhi,25000,8965,53
+122466,MGK_Sensex_report,LongTerm,California,45000,3654,15
+122467,MGK_Sensex_report,SIP,NewYork,8965,17000,26
+122468,NSC_Sensex _report,SIP,Hyderabad,3654,4500,25
+122469,NSC_Sensex _report,ShortTerm,California,5656,25432,24
+122470,NSC_Sensex _report,ShortTerm,California,4532,25000,23
+122471,NSC_Sensex _report,ShortTerm,NewYork,4563,45000,22
+122472,NSC_Sensex _report,ShortTerm,California,2456,8965,25
+122473,NSC_Sensex _report,ShortTerm,NewDelhi,3214,3654,23
+122474,NSC_Sensex _report,SIP,California,865,5656,25
+122475,NSC_Sensex _report,SIP,California,17000,4532,26
+122476,NSC_Sensex _report,LongTerm,NewDelhi,7856,4563,25
+122477,NSC_Sensex _report,LongTerm,California,5689,2456,25
+122478,NSC_Sensex _report,ShortTerm,NewDelhi,4532,3214,36
+122479,NSC_Sensex _report,Daily,Hyderabad,12536,865,54
+122480,NSC_Sensex _report,Daily,NewDelhi,1230,17000,46
+122481,NSC_Sensex _report,SIP,NewYork,45236,45962,13
+122482,NSC_Sensex _report,SIP,Hyderabad,5656,26252,13
+122483,NSC_Sensex _report,ShortTerm,California,25525,5500,11
+122484,NSC_Sensex _report,ShortTerm,Hyderabad,26252,5252,53
+122485,NSC_Sensex _report,ShortTerm,NewYork,5500,17000,15
+122486,NSC_Sensex _report,ShortTerm,NewDelhi,5252,4500,26
+122487,LSA_Sensex_report,ShortTerm,NewYork,17000,25432,25
+122488,LSA_Sensex_report,SIP,California,4500,25000,24
+122489,LSA_Sensex_report,ShortTerm,NewDelhi,25432,45000,23
+122490,LSA_Sensex_report,SIP,California,25000,8965,22
+122491,LSA_Sensex_report,ShortTerm,California,45000,3654,25
+122492,LSA_Sensex_report,ShortTerm,NewDelhi,8965,2365,12
+122493,LSA_Sensex_report,Daily,California,3654,1254,15
+122494,LSA_Sensex_report,SIP,NewDelhi,17000,12365,18
+122495,LSA_Sensex_report,SIP,Hyderabad,18500,45780,26
+122496,LSA_Sensex_report,SIP,NewDelhi,5500,5523,15
+122497,LSA_Sensex_report,SIP,NewYork,28645,5252,26
+122498,LSA_Sensex_report,SIP,Hyderabad,26000,17000,25
+122499,LSA_Sensex_report,ShortTerm,California,49356,5500,24
+122500,CDA_Sensex_report,ShortTerm,Hyderabad,9654,5252,23
+122501,CDA_Sensex_report,Daily,NewYork,5000,17000,22
+122502,CDA_Sensex_report,LongTerm,NewDelhi,18500,4500,25
+122503,CDA_Sensex_report,ShortTerm,NewDelhi,5500,3654,13
+122504,CDA_Sensex_report,ShortTerm,California,28645,5656,16
+122505,CDA_Sensex_report,ShortTerm,NewYork,26000,4532,11
+122506,CDA_Sensex_report,ShortTerm,Hyderabad,49356,4563,15
+122507,CDA_Sensex_report,LongTerm,California,9654,2456,16
+122508,CDA_Sensex_report,LongTerm,California,5000,3214,43
+122509,CDA_Sensex_report,SIP,NewYork,17000,865,21
+122510,CDA_Sensex_report,SIP,NewDelhi,53220,3654,22
+122511,CDA_Sensex_report,ShortTerm,NewYork,4532,5656,23
+122512,CDA_Sensex_report,Daily,Hyderabad,4500,25525,25
+122513,CDA_Sensex_report,SIP,California,25432,26252,26
+122514,CDA_Sensex_report,ShortTerm,Hyderabad,25000,17000,26
+122515,CDA_Sensex_report,SIP,NewYork,45000,4500,25
+122516,CDA_Sensex_report,ShortTerm,NewDelhi,8965,26252,46
+122517,CDA_Sensex_report,ShortTerm,NewDelhi,3654,5500,13
+122518,CDA_Sensex_report,Daily,California,26000,5252,11
+122519,CDA_Sensex_report,SIP,NewYork,49356,17000,53
+122520,CDA_Sensex_report,SIP,Hyderabad,9654,4500,15
+122521,CDA_Sensex_report,SIP,California,5000,25432,26
+122522,CDA_Sensex_report,SIP,California,2456,25000,25
+122523,NSC_Sensex _report,SIP,NewYork,3214,45000,24
+122524,NSC_Sensex _report,ShortTerm,California,865,8965,23
+122525,NSC_Sensex _report,ShortTerm,NewDelhi,3654,3654,22
+122526,NSC_Sensex _report,Daily,California,5656,5656,25
+122527,NSC_Sensex _report,LongTerm,California,25525,4532,21
+122528,NSC_Sensex _report,ShortTerm,NewDelhi,26252,4563,26
+122529,NSC_Sensex _report,ShortTerm,California,17000,2456,17
+122530,NSC_Sensex _report,ShortTerm,NewDelhi,4500,3214,14
+122531,NSC_Sensex _report,ShortTerm,Hyderabad,26252,865,13
+122532,NSC_Sensex _report,LongTerm,NewDelhi,5500,17000,16
+122533,LSA_Sensex_report,LongTerm,Hyderabad,8965,4500,11
+122534,LSA_Sensex_report,SIP,California,3654,25432,15
+122535,LSA_Sensex_report,SIP,California,26000,25000,16
+122536,LSA_Sensex_report,ShortTerm,NewYork,49356,45000,43
+122537,LSA_Sensex_report,ShortTerm,Hyderabad,9654,8965,21
+122538,LSA_Sensex_report,ShortTerm,Hyderabad,5000,4500,53
+122539,LSA_Sensex_report,ShortTerm,NewYork,6464,25432,15
+122540,LSA_Sensex_report,ShortTerm,NewDelhi,25600,25000,26
+122541,LSA_Sensex_report,SIP,Hyderabad,27000,45000,25
+122542,LSA_Sensex_report,ShortTerm,California,6000,8965,24
+122543,LSA_Sensex_report,SIP,California,65000,3654,23
+122544,MGK_Sensex_report,ShortTerm,California,18500,5656,22
+122545,MGK_Sensex_report,ShortTerm,Hyderabad,5500,25525,21
+122546,MGK_Sensex_report,Daily,NewYork,28645,26252,20
+122547,MGK_Sensex_report,SIP,California,26000,5500,19
+122548,MGK_Sensex_report,SIP,California,49356,5252,18
+122549,MGK_Sensex_report,SIP,NewDelhi,9654,17000,17
+122550,MGK_Sensex_report,SIP,California,5000,4500,16
+122551,MGK_Sensex_report,SIP,California,4500,25432,15
+122552,MGK_Sensex_report,ShortTerm,NewDelhi,25432,5321,14
+122553,MGK_Sensex_report,ShortTerm,California,25000,5500,13
+122554,MGK_Sensex_report,Daily,NewDelhi,45000,5252,15
+122555,MGK_Sensex_report,LongTerm,Hyderabad,8965,17000,12
+122556,MGK_Sensex_report,ShortTerm,NewDelhi,3654,4500,25
+122557,MGK_Sensex_report,ShortTerm,NewYork,45000,25432,27
+122558,MGK_Sensex_report,ShortTerm,Hyderabad,8965,25000,22
+122559,MGK_Sensex_report,ShortTerm,California,3654,45000,5
+122560,MGK_Sensex_report,LongTerm,Hyderabad,5656,8965,25
+122561,MGK_Sensex_report,LongTerm,NewYork,25525,3654,36
+122562,MGK_Sensex_report,SIP,NewDelhi,26252,5656,45
+122563,MGK_Sensex_report,SIP,NewDelhi,5500,25525,46
+122564,MGK_Sensex_report,ShortTerm,California,5252,26252,13
+122565,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,11
+122566,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5252,53
+122567,NSC_Sensex _report,ShortTerm,California,25432,17000,15
+122568,NSC_Sensex _report,ShortTerm,California,25000,4500,26
+122569,NSC_Sensex _report,SIP,NewYork,45000,25432,25
+122570,NSC_Sensex _report,SIP,California,8965,25000,24
+122571,NSC_Sensex _report,LongTerm,NewDelhi,3654,45000,23
+122572,NSC_Sensex _report,LongTerm,California,17000,8965,22
+122573,NSC_Sensex _report,ShortTerm,California,18500,3654,25
+122574,NSC_Sensex _report,Daily,NewDelhi,5500,2365,12
+122575,NSC_Sensex _report,Daily,California,28645,1254,15
+122576,NSC_Sensex _report,SIP,NewDelhi,26000,12365,18
+122577,NSC_Sensex _report,ShortTerm,Hyderabad,49356,45780,26
+122578,NSC_Sensex _report,LongTerm,NewDelhi,9654,5523,15
+122579,NSC_Sensex _report,ShortTerm,NewYork,5000,5252,26
+122580,NSC_Sensex _report,LongTerm,Hyderabad,18500,17000,25
+122581,NSC_Sensex _report,Daily,California,5500,5500,24
+122582,NSC_Sensex _report,ShortTerm,Hyderabad,28645,5252,23
+122583,NSC_Sensex _report,ShortTerm,NewYork,26000,17000,22
+122584,LSA_Sensex_report,SIP,NewDelhi,49356,4500,25
+122585,LSA_Sensex_report,SIP,NewDelhi,9654,25432,21
+122586,LSA_Sensex_report,SIP,California,5000,5500,26
+122587,LSA_Sensex_report,SIP,NewYork,45000,4532,17
+122588,LSA_Sensex_report,SIP,Hyderabad,8965,4563,14
+122589,LSA_Sensex_report,SIP,California,3654,2456,13
+122590,LSA_Sensex_report,SIP,California,5656,3214,16
+122591,LSA_Sensex_report,SIP,NewYork,25525,45000,25
+122592,LSA_Sensex_report,SIP,California,26252,8965,24
+122593,LSA_Sensex_report,SIP,NewDelhi,5632,3654,23
+122594,LSA_Sensex_report,ShortTerm,NewYork,4521,5656,22
+122595,LSA_Sensex_report,ShortTerm,California,6598,25525,21
+122596,LSA_Sensex_report,ShortTerm,Hyderabad,5478,26252,20
+122597,CDA_Sensex_report,ShortTerm,California,28645,5500,19
+122598,CDA_Sensex_report,ShortTerm,NewYork,26000,5252,18
+122599,CDA_Sensex_report,SIP,California,49356,17000,17
+122600,CDA_Sensex_report,SIP,NewDelhi,9654,4500,16
+122601,CDA_Sensex_report,SIP,California,5000,25432,15
+122602,CDA_Sensex_report,ShortTerm,California,4500,5321,14
+122603,CDA_Sensex_report,ShortTerm,NewDelhi,25432,5500,13
+122604,CDA_Sensex_report,Daily,California,25000,5252,15
+122605,CDA_Sensex_report,SIP,NewDelhi,45000,17000,12
+122606,CDA_Sensex_report,SIP,Hyderabad,8965,4500,25
+122607,CDA_Sensex_report,ShortTerm,NewDelhi,3654,25432,27
+122608,CDA_Sensex_report,ShortTerm,NewYork,45000,25000,22
+122609,CDA_Sensex_report,ShortTerm,Hyderabad,8965,45000,5
+122610,CDA_Sensex_report,SIP,California,3654,8965,25
+122611,CDA_Sensex_report,SIP,Hyderabad,5656,3654,36
+122612,CDA_Sensex_report,LongTerm,NewYork,25525,5656,45
+122613,CDA_Sensex_report,LongTerm,NewDelhi,26252,25525,46
+122614,CDA_Sensex_report,ShortTerm,NewDelhi,5500,26252,13
+122615,CDA_Sensex_report,Daily,California,49356,5500,11
+122616,CDA_Sensex_report,Daily,California,9654,5252,53
+122617,CDA_Sensex_report,SIP,Hyderabad,5000,17000,15
+122618,CDA_Sensex_report,ShortTerm,NewYork,4500,4500,26
+122619,CDA_Sensex_report,LongTerm,California,25432,25432,25
+122620,NSC_Sensex _report,ShortTerm,California,25000,25000,24
+122621,NSC_Sensex _report,LongTerm,NewDelhi,45000,45000,23
+122622,NSC_Sensex _report,Daily,California,8965,8965,22
+122623,NSC_Sensex _report,Daily,California,3654,3654,25
+122624,NSC_Sensex _report,SIP,NewDelhi,5656,2365,12
+122625,NSC_Sensex _report,ShortTerm,California,4532,1254,15
+122626,NSC_Sensex _report,SIP,NewDelhi,4563,12365,18
+122627,NSC_Sensex _report,ShortTerm,Hyderabad,2456,45780,26
+122628,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5523,15
+122629,NSC_Sensex _report,Daily,NewYork,865,5252,26
+122630,LSA_Sensex_report,SIP,Hyderabad,17000,17000,25
+122631,LSA_Sensex_report,SIP,California,53220,5500,24
+122632,LSA_Sensex_report,SIP,Hyderabad,4532,5252,23
+122633,LSA_Sensex_report,ShortTerm,NewYork,4500,17000,22
+122634,LSA_Sensex_report,ShortTerm,NewDelhi,25432,4500,25
+122635,LSA_Sensex_report,ShortTerm,NewDelhi,25000,25432,21
+122636,LSA_Sensex_report,ShortTerm,California,45000,5500,26
+122637,LSA_Sensex_report,ShortTerm,NewYork,8965,4532,17
+122638,LSA_Sensex_report,SIP,Hyderabad,3654,4563,14
+122639,LSA_Sensex_report,ShortTerm,California,5656,2456,13
+122640,LSA_Sensex_report,SIP,California,4532,3214,16
+122641,MGK_Sensex_report,ShortTerm,NewYork,4563,865,11
+122642,NSC_Sensex _report,Daily,NewDelhi,25525,25600,10
+122643,NSC_Sensex _report,SIP,California,26252,27000,15
+122644,NSC_Sensex _report,ShortTerm,NewYork,5500,6000,12
+122645,NSC_Sensex _report,SIP,NewDelhi,5252,65000,25
+122646,NSC_Sensex _report,ShortTerm,California,17000,18500,27
+122647,NSC_Sensex _report,ShortTerm,NewYork,4500,5500,22
+122648,LSA_Sensex_report,Daily,Hyderabad,25432,28645,5
+122649,LSA_Sensex_report,SIP,California,25000,26000,25
+122650,LSA_Sensex_report,SIP,California,45000,49356,36
+122651,LSA_Sensex_report,SIP,NewYork,8965,9654,45
+122652,LSA_Sensex_report,SIP,Hyderabad,3654,5000,46
+122653,LSA_Sensex_report,SIP,Hyderabad,5656,6464,13
+122654,LSA_Sensex_report,ShortTerm,NewYork,25525,25600,11
+122655,LSA_Sensex_report,ShortTerm,NewDelhi,26252,27000,53
+122656,LSA_Sensex_report,Daily,Hyderabad,5500,6000,15
+122657,LSA_Sensex_report,LongTerm,California,5252,65000,26
+122658,LSA_Sensex_report,ShortTerm,California,17000,18500,25
+122659,MGK_Sensex_report,ShortTerm,California,4500,5500,24
+122660,MGK_Sensex_report,ShortTerm,Hyderabad,25432,28645,23
+122661,MGK_Sensex_report,ShortTerm,NewYork,25000,26000,22
+122662,MGK_Sensex_report,LongTerm,California,45000,49356,21
+122663,MGK_Sensex_report,LongTerm,California,8965,9654,20
+122664,MGK_Sensex_report,SIP,NewDelhi,3654,5000,19
+122665,MGK_Sensex_report,SIP,NewDelhi,5656,6464,18
+122666,MGK_Sensex_report,ShortTerm,Hyderabad,4532,5623,17
+122667,MGK_Sensex_report,ShortTerm,Hyderabad,4563,5368,16
+122668,MGK_Sensex_report,ShortTerm,NewYork,2456,5632,15
+122669,MGK_Sensex_report,ShortTerm,NewDelhi,3214,8956,14
+122670,MGK_Sensex_report,ShortTerm,Hyderabad,865,5432,13
+122671,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+122672,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+122673,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+122674,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+122675,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+122676,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+122677,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+122678,MGK_Sensex_report,SIP,California,5656,6464,36
+122679,MGK_Sensex_report,SIP,California,25525,25600,45
+122680,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+122681,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+122682,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+122683,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+122684,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+122685,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+122686,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+122687,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+122688,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+122689,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+122690,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+122691,NSC_Sensex _report,LongTerm,California,4500,5500,27
+122692,NSC_Sensex _report,SIP,California,25432,28645,22
+122693,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+122694,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+122695,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+122696,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+122697,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+122698,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+122699,LSA_Sensex_report,SIP,California,26252,27000,11
+122700,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+122701,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+122702,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+122703,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+122704,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+122705,LSA_Sensex_report,Daily,California,25000,26000,23
+122706,LSA_Sensex_report,SIP,California,45000,49356,22
+122707,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+122708,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+122709,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+122710,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+122711,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+122712,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+122713,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+122714,CDA_Sensex_report,SIP,California,25100,26000,11
+122715,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+122716,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+122717,CDA_Sensex_report,SIP,California,26722,35000,43
+122718,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+122719,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+122720,CDA_Sensex_report,SIP,California,3654,19000,23
+122721,CDA_Sensex_report,SIP,California,5656,18000,25
+122722,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+122723,CDA_Sensex_report,SIP,California,4563,16005,25
+122724,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+122725,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+122726,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+122727,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+122728,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+122729,CDA_Sensex_report,SIP,California,26252,27000,11
+122730,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+122731,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+122732,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+122733,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+122734,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+122735,NSC_Sensex _report,Daily,California,25000,26000,23
+122736,NSC_Sensex _report,SIP,California,45000,49356,22
+122737,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+122738,NSC_Sensex _report,LongTerm,California,4563,9654,23
+122739,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+122740,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+122741,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+122742,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+122743,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+122744,LSA_Sensex_report,LongTerm,California,26252,65000,54
+122745,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+122746,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+122747,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+122748,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+122749,LSA_Sensex_report,LongTerm,California,5252,18500,15
+122750,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+122751,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+122752,LSA_Sensex_report,SIP,California,25432,26000,12
+122753,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+122754,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+122755,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+122756,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+122757,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+122758,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+122759,MGK_Sensex_report,SIP,California,26252,26000,45
+122760,MGK_Sensex_report,LongTerm,California,5500,49356,46
+122761,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+122762,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+122763,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+122764,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+122765,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+122766,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+122767,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+122768,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+122769,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+122770,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+122771,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+122772,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+122773,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+122774,MGK_Sensex_report,ShortTerm,California,865,5000,17
+122775,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+122776,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+122777,NSC_Sensex _report,ShortTerm,California,25432,865,14
+122778,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+122779,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+122780,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+122781,NSC_Sensex _report,Daily,California,3654,25000,25
+122782,NSC_Sensex _report,SIP,California,5656,45000,27
+122783,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+122784,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+122785,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+122786,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+122787,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+122788,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+122789,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+122790,NSC_Sensex _report,Daily,California,25000,17000,11
+122791,NSC_Sensex _report,SIP,California,45000,4500,53
+122792,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+122793,NSC_Sensex _report,SIP,California,3654,5321,26
+122794,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+122795,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+122796,LSA_Sensex_report,Daily,California,5500,17000,23
+122797,LSA_Sensex_report,SIP,California,28645,4500,22
+122798,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+122799,LSA_Sensex_report,SIP,California,49356,25000,27
+122800,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+122801,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+122802,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+122803,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+122804,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+122805,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+122806,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+122807,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+122808,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+122809,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+122810,CDA_Sensex_report,LongTerm,California,25600,25432,26
+122811,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+122812,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+122813,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+122814,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+122815,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+122816,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+122817,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+122818,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+122819,CDA_Sensex_report,SIP,California,9654,3214,14
+122820,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+122821,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+122822,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+122823,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+122824,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+122825,CDA_Sensex_report,SIP,California,8965,45000,43
+122826,CDA_Sensex_report,SIP,California,3654,8965,21
+122827,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+122828,CDA_Sensex_report,SIP,California,4532,5656,23
+122829,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+122830,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+122831,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+122832,NSC_Sensex _report,Daily,NewDelhi,25525,25600,10
+122833,NSC_Sensex _report,SIP,California,26252,27000,15
+122834,NSC_Sensex _report,ShortTerm,NewYork,5500,6000,12
+122835,NSC_Sensex _report,SIP,NewDelhi,5252,65000,25
+122836,NSC_Sensex _report,ShortTerm,California,17000,18500,27
+122837,NSC_Sensex _report,ShortTerm,NewYork,4500,5500,22
+122838,LSA_Sensex_report,Daily,Hyderabad,25432,28645,5
+122839,LSA_Sensex_report,SIP,California,25000,26000,25
+122840,LSA_Sensex_report,SIP,California,45000,49356,36
+122841,LSA_Sensex_report,SIP,NewYork,8965,9654,45
+122842,LSA_Sensex_report,SIP,Hyderabad,3654,5000,46
+122843,LSA_Sensex_report,SIP,Hyderabad,5656,6464,13
+122844,LSA_Sensex_report,ShortTerm,NewYork,25525,25600,11
+122845,LSA_Sensex_report,ShortTerm,NewDelhi,26252,27000,53
+122846,LSA_Sensex_report,Daily,Hyderabad,5500,6000,15
+122847,LSA_Sensex_report,LongTerm,California,5252,65000,26
+122848,LSA_Sensex_report,ShortTerm,California,17000,18500,25
+122849,MGK_Sensex_report,ShortTerm,California,4500,5500,24
+122850,MGK_Sensex_report,ShortTerm,Hyderabad,25432,28645,23
+122851,MGK_Sensex_report,ShortTerm,NewYork,25000,26000,22
+122852,MGK_Sensex_report,LongTerm,California,45000,49356,21
+122853,MGK_Sensex_report,LongTerm,California,8965,9654,20
+122854,MGK_Sensex_report,SIP,NewDelhi,3654,5000,19
+122855,MGK_Sensex_report,SIP,NewDelhi,5656,6464,18
+122856,MGK_Sensex_report,ShortTerm,Hyderabad,4532,5623,17
+122857,MGK_Sensex_report,ShortTerm,Hyderabad,4563,5368,16
+122858,MGK_Sensex_report,ShortTerm,NewYork,2456,5632,15
+122859,MGK_Sensex_report,ShortTerm,NewDelhi,3214,8956,14
+122860,MGK_Sensex_report,ShortTerm,Hyderabad,865,5432,13
+122861,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+122862,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+122863,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+122864,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+122865,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+122866,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+122867,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+122868,MGK_Sensex_report,SIP,California,5656,6464,36
+122869,MGK_Sensex_report,SIP,California,25525,25600,45
+122870,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+122871,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+122872,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+122873,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+122874,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+122875,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+122876,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+122877,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+122878,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+122879,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+122880,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+122881,NSC_Sensex _report,LongTerm,California,4500,5500,27
+122882,NSC_Sensex _report,SIP,California,25432,28645,22
+122883,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+122884,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+122885,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+122886,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+122887,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+122888,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+122889,LSA_Sensex_report,SIP,California,26252,27000,11
+122890,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+122891,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+122892,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+122893,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+122894,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+122895,LSA_Sensex_report,Daily,California,25000,26000,23
+122896,LSA_Sensex_report,SIP,California,45000,49356,22
+122897,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+122898,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+122899,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+122900,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+122901,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+122902,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+122903,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+122904,CDA_Sensex_report,SIP,California,25100,26000,11
+122905,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+122906,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+122907,CDA_Sensex_report,SIP,California,26722,35000,43
+122908,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+122909,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+122910,CDA_Sensex_report,SIP,California,3654,19000,23
+122911,CDA_Sensex_report,SIP,California,5656,18000,25
+122912,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+122913,CDA_Sensex_report,SIP,California,4563,16005,25
+122914,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+122915,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+122916,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+122917,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+122918,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+122919,CDA_Sensex_report,SIP,California,26252,27000,11
+122920,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+122921,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+122922,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+122923,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+122924,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+122925,NSC_Sensex _report,Daily,California,25000,26000,23
+122926,NSC_Sensex _report,SIP,California,45000,49356,22
+122927,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+122928,NSC_Sensex _report,LongTerm,California,4563,9654,23
+122929,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+122930,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+122931,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+122932,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+122933,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+122934,LSA_Sensex_report,LongTerm,California,26252,65000,54
+122935,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+122936,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+122937,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+122938,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+122939,LSA_Sensex_report,LongTerm,California,5252,18500,15
+122940,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+122941,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+122942,LSA_Sensex_report,SIP,California,25432,26000,12
+122943,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+122944,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+122945,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+122946,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+122947,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+122948,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+122949,MGK_Sensex_report,SIP,California,26252,26000,45
+122950,MGK_Sensex_report,LongTerm,California,5500,49356,46
+122951,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+122952,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+122953,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+122954,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+122955,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+122956,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+122957,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+122958,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+122959,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+122960,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+122961,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+122962,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+122963,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+122964,MGK_Sensex_report,ShortTerm,California,865,5000,17
+122965,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+122966,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+122967,NSC_Sensex _report,ShortTerm,California,25432,865,14
+122968,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+122969,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+122970,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+122971,NSC_Sensex _report,Daily,California,3654,25000,25
+122972,NSC_Sensex _report,SIP,California,5656,45000,27
+122973,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+122974,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+122975,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+122976,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+122977,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+122978,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+122979,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+122980,NSC_Sensex _report,Daily,California,25000,17000,11
+122981,NSC_Sensex _report,SIP,California,45000,4500,53
+122982,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+122983,NSC_Sensex _report,SIP,California,3654,5321,26
+122984,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+122985,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+122986,LSA_Sensex_report,Daily,California,5500,17000,23
+122987,LSA_Sensex_report,SIP,California,28645,4500,22
+122988,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+122989,LSA_Sensex_report,SIP,California,49356,25000,27
+122990,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+122991,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+122992,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+122993,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+122994,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+122995,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+122996,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+122997,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+122998,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+122999,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+123000,CDA_Sensex_report,LongTerm,California,25600,25432,26
+123001,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+123002,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+123003,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+123004,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+123005,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+123006,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+123007,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+123008,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+123009,CDA_Sensex_report,SIP,California,9654,3214,14
+123010,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+123011,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+123012,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+123013,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+123014,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+123015,CDA_Sensex_report,SIP,California,8965,45000,43
+123016,CDA_Sensex_report,SIP,California,3654,8965,21
+123017,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+123018,CDA_Sensex_report,SIP,California,4532,5656,23
+123019,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+123020,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+123021,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+123022,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+123023,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+123024,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+123025,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+123026,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+123027,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+123028,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+123029,MGK_Sensex_report,SIP,California,5656,6464,36
+123030,MGK_Sensex_report,SIP,California,25525,25600,45
+123031,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+123032,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+123033,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+123034,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+123035,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+123036,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+123037,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+123038,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+123039,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+123040,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+123041,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+123042,NSC_Sensex _report,LongTerm,California,4500,5500,27
+123043,NSC_Sensex _report,SIP,California,25432,28645,22
+123044,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+123045,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+123046,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+123047,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+123048,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+123049,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+123050,LSA_Sensex_report,SIP,California,26252,27000,11
+123051,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+123052,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123053,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123054,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123055,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123056,LSA_Sensex_report,Daily,California,25000,26000,23
+123057,LSA_Sensex_report,SIP,California,45000,49356,22
+123058,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+123059,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+123060,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+123061,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+123062,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+123063,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+123064,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+123065,CDA_Sensex_report,SIP,California,25100,26000,11
+123066,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+123067,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+123068,CDA_Sensex_report,SIP,California,26722,35000,43
+123069,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+123070,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+123071,CDA_Sensex_report,SIP,California,3654,19000,23
+123072,CDA_Sensex_report,SIP,California,5656,18000,25
+123073,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+123074,CDA_Sensex_report,SIP,California,4563,16005,25
+123075,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+123076,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+123077,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+123078,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+123079,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+123080,CDA_Sensex_report,SIP,California,26252,27000,11
+123081,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+123082,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123083,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123084,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123085,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123086,NSC_Sensex _report,Daily,California,25000,26000,23
+123087,NSC_Sensex _report,SIP,California,45000,49356,22
+123088,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+123089,NSC_Sensex _report,LongTerm,California,4563,9654,23
+123090,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+123091,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+123092,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+123093,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+123094,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+123095,LSA_Sensex_report,LongTerm,California,26252,65000,54
+123096,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+123097,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+123098,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+123099,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+123100,LSA_Sensex_report,LongTerm,California,5252,18500,15
+123101,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+123102,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+123103,LSA_Sensex_report,SIP,California,25432,26000,12
+123104,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+123105,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+123106,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+123107,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+123108,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+123109,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+123110,MGK_Sensex_report,SIP,California,26252,26000,45
+123111,MGK_Sensex_report,LongTerm,California,5500,49356,46
+123112,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+123113,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+123114,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+123115,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+123116,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+123117,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+123118,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+123119,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+123120,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+123121,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+123122,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+123123,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+123124,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+123125,MGK_Sensex_report,ShortTerm,California,865,5000,17
+123126,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+123127,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+123128,NSC_Sensex _report,ShortTerm,California,25432,865,14
+123129,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+123130,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+123131,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+123132,NSC_Sensex _report,Daily,California,3654,25000,25
+123133,NSC_Sensex _report,SIP,California,5656,45000,27
+123134,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+123135,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+123136,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+123137,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+123138,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+123139,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+123140,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+123141,NSC_Sensex _report,Daily,California,25000,17000,11
+123142,NSC_Sensex _report,SIP,California,45000,4500,53
+123143,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+123144,NSC_Sensex _report,SIP,California,3654,5321,26
+123145,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+123146,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+123147,LSA_Sensex_report,Daily,California,5500,17000,23
+123148,LSA_Sensex_report,SIP,California,28645,4500,22
+123149,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+123150,LSA_Sensex_report,SIP,California,49356,25000,27
+123151,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+123152,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+123153,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+123154,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+123155,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+123156,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+123157,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+123158,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+123159,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+123160,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+123161,CDA_Sensex_report,LongTerm,California,25600,25432,26
+123162,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+123163,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+123164,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+123165,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+123166,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+123167,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+123168,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+123169,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+123170,CDA_Sensex_report,SIP,California,9654,3214,14
+123171,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+123172,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+123173,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+123174,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+123175,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+123176,CDA_Sensex_report,SIP,California,8965,45000,43
+123177,CDA_Sensex_report,SIP,California,3654,8965,21
+123178,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+123179,CDA_Sensex_report,SIP,California,4532,5656,23
+123180,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+123181,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+123182,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+123183,CDA_Sensex_report,ShortTerm,Kolkata,45000,8965,14
+123184,CDA_Sensex_report,ShortTerm,California,8965,3654,13
+123185,CDA_Sensex_report,LongTerm,Hyderabad,3652,5656,16
+123186,CDA_Sensex_report,LongTerm,Hyderabad,5656,4532,11
+123187,CDA_Sensex_report,SIP,NewYork,25525,4563,15
+123188,LSA_Sensex_report,SIP,NewDelhi,26252,2456,16
+123189,LSA_Sensex_report,LongTerm,Kolkata,5523,3214,43
+123190,LSA_Sensex_report,SIP,California,5252,865,21
+123191,LSA_Sensex_report,Daily,NewDelhi,17000,3654,22
+123192,LSA_Sensex_report,LongTerm,NewDelhi,5500,5656,23
+123193,LSA_Sensex_report,ShortTerm,California,5252,25525,25
+123194,LSA_Sensex_report,ShortTerm,NewYork,17000,26252,26
+123195,LSA_Sensex_report,ShortTerm,Hyderabad,8965,17000,26
+123196,LSA_Sensex_report,ShortTerm,California,3654,4500,25
+123197,LSA_Sensex_report,LongTerm,California,26000,26252,46
+123198,LSA_Sensex_report,LongTerm,NewYork,49356,5500,13
+123199,LSA_Sensex_report,SIP,Hyderabad,9654,5252,11
+123200,LSA_Sensex_report,SIP,Hyderabad,5000,17000,53
+123201,LSA_Sensex_report,ShortTerm,NewYork,6464,4500,15
+123202,LSA_Sensex_report,ShortTerm,NewDelhi,25600,25432,26
+123203,MGK_Sensex_report,ShortTerm,Hyderabad,27000,25000,25
+123204,MGK_Sensex_report,ShortTerm,California,6000,45000,24
+123205,MGK_Sensex_report,ShortTerm,California,65000,8965,23
+123206,MGK_Sensex_report,SIP,California,18500,3654,22
+123207,MGK_Sensex_report,ShortTerm,Hyderabad,5500,5656,25
+123208,MGK_Sensex_report,SIP,NewYork,28645,4532,21
+123209,MGK_Sensex_report,ShortTerm,California,26000,4563,26
+123210,MGK_Sensex_report,ShortTerm,California,49356,2456,17
+123211,MGK_Sensex_report,Daily,NewDelhi,9654,3214,14
+123212,MGK_Sensex_report,SIP,California,5000,865,13
+123213,MGK_Sensex_report,SIP,California,4500,17000,16
+123214,MGK_Sensex_report,SIP,NewDelhi,25432,4500,11
+123215,MGK_Sensex_report,SIP,California,25000,25432,15
+123216,MGK_Sensex_report,SIP,NewDelhi,45000,25000,16
+123217,MGK_Sensex_report,ShortTerm,Hyderabad,8965,45000,43
+123218,MGK_Sensex_report,ShortTerm,NewDelhi,3654,8965,21
+123219,MGK_Sensex_report,Daily,NewYork,45000,4500,53
+123220,MGK_Sensex_report,LongTerm,Hyderabad,8965,25432,15
+123221,MGK_Sensex_report,ShortTerm,California,3654,25000,26
+123222,MGK_Sensex_report,ShortTerm,Hyderabad,5656,45000,25
+123223,MGK_Sensex_report,ShortTerm,NewYork,25525,8965,24
+123224,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,23
+123225,MGK_Sensex_report,LongTerm,NewDelhi,5500,5656,22
+123226,MGK_Sensex_report,LongTerm,California,5252,25525,21
+123227,MGK_Sensex_report,SIP,NewYork,17000,26252,20
+123228,MGK_Sensex_report,SIP,Hyderabad,4500,5500,19
+123229,MGK_Sensex_report,ShortTerm,California,25432,5252,18
+123230,MGK_Sensex_report,ShortTerm,California,25000,17000,17
+123231,MGK_Sensex_report,ShortTerm,NewYork,45000,4500,16
+123232,MGK_Sensex_report,ShortTerm,California,8965,25432,15
+123233,MGK_Sensex_report,ShortTerm,NewDelhi,3654,5321,14
+123234,MGK_Sensex_report,SIP,California,17000,5500,13
+123235,MGK_Sensex_report,SIP,California,18500,5252,15
+123236,MGK_Sensex_report,LongTerm,NewDelhi,5500,17000,12
+123237,MGK_Sensex_report,LongTerm,California,28645,4500,25
+123238,MGK_Sensex_report,ShortTerm,NewDelhi,26000,25432,27
+123239,MGK_Sensex_report,Daily,Hyderabad,49356,25000,22
+123240,MGK_Sensex_report,Daily,NewDelhi,9654,45000,5
+123241,MGK_Sensex_report,SIP,NewYork,5000,8965,25
+123242,MGK_Sensex_report,ShortTerm,Hyderabad,18500,3654,36
+123243,MGK_Sensex_report,LongTerm,California,5500,5656,45
+123244,MGK_Sensex_report,ShortTerm,Hyderabad,28645,25525,46
+123245,MGK_Sensex_report,LongTerm,NewYork,26000,26252,13
+123246,LSA_Sensex_report,Daily,NewDelhi,49356,5500,11
+123247,LSA_Sensex_report,Daily,NewDelhi,9654,5252,53
+123248,LSA_Sensex_report,SIP,California,5000,17000,15
+123249,LSA_Sensex_report,ShortTerm,NewYork,45000,4500,26
+123250,LSA_Sensex_report,SIP,Hyderabad,8965,25432,25
+123251,LSA_Sensex_report,ShortTerm,California,3654,25000,24
+123252,LSA_Sensex_report,ShortTerm,California,5656,45000,23
+123253,LSA_Sensex_report,Daily,NewYork,25525,8965,22
+123254,NSC_Sensex _report,SIP,California,26252,3654,25
+123255,NSC_Sensex _report,SIP,NewDelhi,5632,2365,12
+123256,NSC_Sensex _report,SIP,NewYork,4521,1254,15
+123257,NSC_Sensex _report,SIP,California,6598,12365,18
+123258,NSC_Sensex _report,SIP,Hyderabad,5478,45780,26
+123259,NSC_Sensex _report,LongTerm,California,28645,5523,15
+123260,NSC_Sensex _report,Daily,NewYork,26000,5252,26
+123261,NSC_Sensex _report,Daily,California,49356,17000,25
+123262,NSC_Sensex _report,SIP,NewDelhi,9654,5500,24
+123263,NSC_Sensex _report,ShortTerm,California,5000,5252,23
+123264,NSC_Sensex _report,SIP,California,4500,17000,22
+123265,NSC_Sensex _report,ShortTerm,NewDelhi,25432,4500,25
+123266,NSC_Sensex _report,ShortTerm,California,25000,25432,21
+123267,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+123268,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+123269,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+123270,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+123271,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+123272,NSC_Sensex _report,SIP,California,3654,865,11
+123273,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+123274,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+123275,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+123276,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+123277,NSC_Sensex _report,ShortTerm,California,1230,5500,22
+123278,NSC_Sensex _report,SIP,NewYork,45236,5252,23
+123279,CDA_Sensex_report,ShortTerm,Hyderabad,5632,17000,25
+123280,CDA_Sensex_report,LongTerm,California,25525,4500,26
+123281,CDA_Sensex_report,Daily,California,26252,25432,15
+123282,CDA_Sensex_report,ShortTerm,NewYork,5523,25000,26
+123283,CDA_Sensex_report,SIP,California,5252,45000,25
+123284,MGK_Sensex_report,SIP,NewDelhi,8965,25432,25
+123285,MGK_Sensex_report,SIP,California,3654,25000,24
+123286,MGK_Sensex_report,SIP,NewDelhi,5656,45000,23
+123287,MGK_Sensex_report,ShortTerm,Hyderabad,25525,8965,22
+123288,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,25
+123289,MGK_Sensex_report,Daily,NewYork,5500,5656,27
+123290,MGK_Sensex_report,LongTerm,Hyderabad,5252,25525,22
+123291,NSC_Sensex _report,ShortTerm,California,17000,26252,5
+123292,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,25
+123293,NSC_Sensex _report,ShortTerm,NewYork,25432,5252,53
+123294,NSC_Sensex _report,ShortTerm,NewDelhi,25000,17000,15
+123295,NSC_Sensex _report,LongTerm,NewDelhi,45000,4500,26
+123296,NSC_Sensex _report,LongTerm,California,8965,25432,25
+123297,NSC_Sensex _report,ShortTerm,NewYork,3654,5321,24
+123298,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,23
+123299,NSC_Sensex _report,Daily,California,18500,5252,22
+123300,NSC_Sensex _report,SIP,California,5500,17000,21
+123301,NSC_Sensex _report,SIP,NewYork,28645,4500,20
+123302,NSC_Sensex _report,SIP,Hyderabad,26000,25432,19
+123303,NSC_Sensex _report,SIP,Hyderabad,49356,25000,18
+123304,NSC_Sensex _report,SIP,NewYork,9654,45000,17
+123305,NSC_Sensex _report,ShortTerm,NewDelhi,5000,8965,16
+123306,NSC_Sensex _report,ShortTerm,Hyderabad,18500,3654,15
+123307,NSC_Sensex _report,Daily,California,5500,5656,14
+123308,NSC_Sensex _report,LongTerm,California,28645,25525,13
+123309,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+123310,LSA_Sensex_report,ShortTerm,Hyderabad,49356,5500,12
+123311,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,25
+123312,LSA_Sensex_report,ShortTerm,California,5000,17000,27
+123313,LSA_Sensex_report,LongTerm,California,17000,1230,22
+123314,LSA_Sensex_report,LongTerm,NewDelhi,53220,45236,5
+123315,LSA_Sensex_report,SIP,California,4532,5632,25
+123316,MGK_Sensex_report,SIP,California,4500,25525,36
+123317,MGK_Sensex_report,ShortTerm,NewDelhi,25432,26252,45
+123318,MGK_Sensex_report,ShortTerm,California,25000,5523,46
+123319,MGK_Sensex_report,ShortTerm,NewDelhi,45000,5252,13
+123320,MGK_Sensex_report,ShortTerm,Hyderabad,8965,17000,11
+123321,MGK_Sensex_report,ShortTerm,NewDelhi,3654,4500,53
+123322,MGK_Sensex_report,SIP,NewYork,26000,25432,15
+123323,MGK_Sensex_report,SIP,Hyderabad,49356,25000,26
+123324,MGK_Sensex_report,LongTerm,California,9654,45000,25
+123325,MGK_Sensex_report,LongTerm,Hyderabad,5000,8965,24
+123326,MGK_Sensex_report,ShortTerm,NewYork,6464,4563,23
+123327,MGK_Sensex_report,Daily,NewDelhi,25600,45000,22
+123328,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+123329,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+123330,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+123331,LSA_Sensex_report,SIP,California,865,5656,25
+123332,LSA_Sensex_report,SIP,California,17000,4532,26
+123333,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+123334,LSA_Sensex_report,LongTerm,California,5689,2456,25
+123335,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+123336,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+123337,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+123338,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+123339,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+123340,CDA_Sensex_report,LongTerm,California,25525,25600,13
+123341,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+123342,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+123343,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+123344,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+123345,CDA_Sensex_report,SIP,California,4500,5500,25
+123346,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+123347,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+123348,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+123349,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+123350,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+123351,NSC_Sensex _report,SIP,California,45000,5000,25
+123352,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+123353,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+123354,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+123355,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+123356,LSA_Sensex_report,SIP,California,865,5656,25
+123357,LSA_Sensex_report,SIP,California,17000,4532,26
+123358,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+123359,LSA_Sensex_report,LongTerm,California,5689,2456,25
+123360,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+123361,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+123362,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+123363,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+123364,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+123365,CDA_Sensex_report,LongTerm,California,25525,25600,13
+123366,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+123367,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+123368,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+123369,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+123370,CDA_Sensex_report,SIP,California,4500,5500,25
+123371,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+123372,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+123373,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+123374,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+123375,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+123376,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+123377,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+123378,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+123379,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+123380,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+123381,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+123382,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+123383,MGK_Sensex_report,SIP,California,5656,6464,36
+123384,MGK_Sensex_report,SIP,California,25525,25600,45
+123385,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+123386,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+123387,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+123388,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+123389,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+123390,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+123391,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+123392,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+123393,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+123394,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+123395,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+123396,NSC_Sensex _report,LongTerm,California,4500,5500,27
+123397,NSC_Sensex _report,SIP,California,25432,28645,22
+123398,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+123399,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+123400,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+123401,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+123402,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+123403,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+123404,LSA_Sensex_report,SIP,California,26252,27000,11
+123405,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+123406,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123407,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123408,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123409,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123410,LSA_Sensex_report,Daily,California,25000,26000,23
+123411,LSA_Sensex_report,SIP,California,45000,49356,22
+123412,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+123413,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+123414,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+123415,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+123416,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+123417,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+123418,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+123419,CDA_Sensex_report,SIP,California,25100,26000,11
+123420,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+123421,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+123422,CDA_Sensex_report,SIP,California,26722,35000,43
+123423,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+123424,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+123425,CDA_Sensex_report,SIP,California,3654,19000,23
+123426,CDA_Sensex_report,SIP,California,5656,18000,25
+123427,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+123428,CDA_Sensex_report,SIP,California,4563,16005,25
+123429,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+123430,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+123431,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+123432,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+123433,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+123434,CDA_Sensex_report,SIP,California,26252,27000,11
+123435,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+123436,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123437,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123438,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123439,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123440,NSC_Sensex _report,Daily,California,25000,26000,23
+123441,NSC_Sensex _report,SIP,California,45000,49356,22
+123442,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+123443,NSC_Sensex _report,LongTerm,California,4563,9654,23
+123444,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+123445,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+123446,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+123447,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+123448,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+123449,LSA_Sensex_report,LongTerm,California,26252,65000,54
+123450,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+123451,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+123452,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+123453,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+123454,LSA_Sensex_report,LongTerm,California,5252,18500,15
+123455,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+123456,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+123457,LSA_Sensex_report,SIP,California,25432,26000,12
+123458,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+123459,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+123460,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+123461,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+123462,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+123463,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+123464,MGK_Sensex_report,SIP,California,26252,26000,45
+123465,MGK_Sensex_report,LongTerm,California,5500,49356,46
+123466,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+123467,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+123468,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+123469,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+123470,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+123471,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+123472,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+123473,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+123474,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+123475,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+123476,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+123477,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+123478,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+123479,MGK_Sensex_report,ShortTerm,California,865,5000,17
+123480,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+123481,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+123482,NSC_Sensex _report,ShortTerm,California,25432,865,14
+123483,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+123484,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+123485,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+123486,NSC_Sensex _report,Daily,California,3654,25000,25
+123487,NSC_Sensex _report,SIP,California,5656,45000,27
+123488,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+123489,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+123490,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+123491,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+123492,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+123493,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+123494,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+123495,NSC_Sensex _report,Daily,California,25000,17000,11
+123496,NSC_Sensex _report,SIP,California,45000,4500,53
+123497,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+123498,NSC_Sensex _report,SIP,California,3654,5321,26
+123499,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+123500,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+123501,LSA_Sensex_report,Daily,California,5500,17000,23
+123502,LSA_Sensex_report,SIP,California,28645,4500,22
+123503,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+123504,LSA_Sensex_report,SIP,California,49356,25000,27
+123505,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+123506,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+123507,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+123508,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+123509,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+123510,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+123511,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+123512,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+123513,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+123514,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+123515,CDA_Sensex_report,LongTerm,California,25600,25432,26
+123516,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+123517,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+123518,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+123519,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+123520,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+123521,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+123522,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+123523,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+123524,CDA_Sensex_report,SIP,California,9654,3214,14
+123525,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+123526,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+123527,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+123528,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+123529,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+123530,CDA_Sensex_report,SIP,California,8965,45000,43
+123531,CDA_Sensex_report,SIP,California,3654,8965,21
+123532,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+123533,CDA_Sensex_report,SIP,California,4532,5656,23
+123534,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+123535,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+123536,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+123537,CDA_Sensex_report,ShortTerm,Kolkata,45000,8965,14
+123538,CDA_Sensex_report,ShortTerm,California,8965,3654,13
+123539,CDA_Sensex_report,LongTerm,Hyderabad,3652,5656,16
+123540,CDA_Sensex_report,LongTerm,Hyderabad,5656,4532,11
+123541,CDA_Sensex_report,SIP,NewYork,25525,4563,15
+123542,LSA_Sensex_report,SIP,NewDelhi,26252,2456,16
+123543,LSA_Sensex_report,LongTerm,Kolkata,5523,3214,43
+123544,LSA_Sensex_report,SIP,California,5252,865,21
+123545,LSA_Sensex_report,Daily,NewDelhi,17000,3654,22
+123546,LSA_Sensex_report,LongTerm,NewDelhi,5500,5656,23
+123547,LSA_Sensex_report,ShortTerm,California,5252,25525,25
+123548,LSA_Sensex_report,ShortTerm,NewYork,17000,26252,26
+123549,LSA_Sensex_report,ShortTerm,Hyderabad,8965,17000,26
+123550,LSA_Sensex_report,ShortTerm,California,3654,4500,25
+123551,LSA_Sensex_report,LongTerm,California,26000,26252,46
+123552,LSA_Sensex_report,LongTerm,NewYork,49356,5500,13
+123553,LSA_Sensex_report,SIP,Hyderabad,9654,5252,11
+123554,LSA_Sensex_report,SIP,Hyderabad,5000,17000,53
+123555,LSA_Sensex_report,ShortTerm,NewYork,6464,4500,15
+123556,LSA_Sensex_report,ShortTerm,NewDelhi,25600,25432,26
+123557,MGK_Sensex_report,ShortTerm,Hyderabad,27000,25000,25
+123558,MGK_Sensex_report,ShortTerm,California,6000,45000,24
+123559,MGK_Sensex_report,ShortTerm,California,65000,8965,23
+123560,MGK_Sensex_report,SIP,California,18500,3654,22
+123561,MGK_Sensex_report,ShortTerm,Hyderabad,5500,5656,25
+123562,MGK_Sensex_report,SIP,NewYork,28645,4532,21
+123563,MGK_Sensex_report,ShortTerm,California,26000,4563,26
+123564,MGK_Sensex_report,ShortTerm,California,49356,2456,17
+123565,MGK_Sensex_report,Daily,NewDelhi,9654,3214,14
+123566,MGK_Sensex_report,SIP,California,5000,865,13
+123567,MGK_Sensex_report,SIP,California,4500,17000,16
+123568,MGK_Sensex_report,SIP,NewDelhi,25432,4500,11
+123569,MGK_Sensex_report,SIP,California,25000,25432,15
+123570,MGK_Sensex_report,SIP,NewDelhi,45000,25000,16
+123571,MGK_Sensex_report,ShortTerm,Hyderabad,8965,45000,43
+123572,MGK_Sensex_report,ShortTerm,NewDelhi,3654,8965,21
+123573,MGK_Sensex_report,Daily,NewYork,45000,4500,53
+123574,MGK_Sensex_report,LongTerm,Hyderabad,8965,25432,15
+123575,MGK_Sensex_report,ShortTerm,California,3654,25000,26
+123576,MGK_Sensex_report,ShortTerm,Hyderabad,5656,45000,25
+123577,MGK_Sensex_report,ShortTerm,NewYork,25525,8965,24
+123578,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,23
+123579,MGK_Sensex_report,LongTerm,NewDelhi,5500,5656,22
+123580,MGK_Sensex_report,LongTerm,California,5252,25525,21
+123581,MGK_Sensex_report,SIP,NewYork,17000,26252,20
+123582,MGK_Sensex_report,SIP,Hyderabad,4500,5500,19
+123583,MGK_Sensex_report,ShortTerm,California,25432,5252,18
+123584,MGK_Sensex_report,ShortTerm,California,25000,17000,17
+123585,MGK_Sensex_report,ShortTerm,NewYork,45000,4500,16
+123586,MGK_Sensex_report,ShortTerm,California,8965,25432,15
+123587,MGK_Sensex_report,ShortTerm,NewDelhi,3654,5321,14
+123588,MGK_Sensex_report,SIP,California,17000,5500,13
+123589,MGK_Sensex_report,SIP,California,18500,5252,15
+123590,MGK_Sensex_report,LongTerm,NewDelhi,5500,17000,12
+123591,MGK_Sensex_report,LongTerm,California,28645,4500,25
+123592,MGK_Sensex_report,ShortTerm,NewDelhi,26000,25432,27
+123593,MGK_Sensex_report,Daily,Hyderabad,49356,25000,22
+123594,MGK_Sensex_report,Daily,NewDelhi,9654,45000,5
+123595,MGK_Sensex_report,SIP,NewYork,5000,8965,25
+123596,MGK_Sensex_report,ShortTerm,Hyderabad,18500,3654,36
+123597,MGK_Sensex_report,LongTerm,California,5500,5656,45
+123598,MGK_Sensex_report,ShortTerm,Hyderabad,28645,25525,46
+123599,MGK_Sensex_report,LongTerm,NewYork,26000,26252,13
+123600,LSA_Sensex_report,Daily,NewDelhi,49356,5500,11
+123601,LSA_Sensex_report,Daily,NewDelhi,9654,5252,53
+123602,LSA_Sensex_report,SIP,California,5000,17000,15
+123603,LSA_Sensex_report,ShortTerm,NewYork,45000,4500,26
+123604,LSA_Sensex_report,SIP,Hyderabad,8965,25432,25
+123605,LSA_Sensex_report,ShortTerm,California,3654,25000,24
+123606,LSA_Sensex_report,ShortTerm,California,5656,45000,23
+123607,LSA_Sensex_report,Daily,NewYork,25525,8965,22
+123608,NSC_Sensex _report,SIP,California,26252,3654,25
+123609,NSC_Sensex _report,SIP,NewDelhi,5632,2365,12
+123610,NSC_Sensex _report,SIP,NewYork,4521,1254,15
+123611,NSC_Sensex _report,SIP,California,6598,12365,18
+123612,NSC_Sensex _report,SIP,Hyderabad,5478,45780,26
+123613,NSC_Sensex _report,LongTerm,California,28645,5523,15
+123614,NSC_Sensex _report,Daily,NewYork,26000,5252,26
+123615,NSC_Sensex _report,Daily,California,49356,17000,25
+123616,NSC_Sensex _report,SIP,NewDelhi,9654,5500,24
+123617,NSC_Sensex _report,ShortTerm,California,5000,5252,23
+123618,NSC_Sensex _report,SIP,California,4500,17000,22
+123619,NSC_Sensex _report,ShortTerm,NewDelhi,25432,4500,25
+123620,NSC_Sensex _report,ShortTerm,California,25000,25432,21
+123621,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+123622,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+123623,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+123624,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+123625,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+123626,NSC_Sensex _report,SIP,California,3654,865,11
+123627,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+123628,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+123629,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+123630,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+123631,NSC_Sensex _report,ShortTerm,California,1230,5500,22
+123632,NSC_Sensex _report,SIP,NewYork,45236,5252,23
+123633,CDA_Sensex_report,ShortTerm,Hyderabad,5632,17000,25
+123634,CDA_Sensex_report,LongTerm,California,25525,4500,26
+123635,CDA_Sensex_report,Daily,California,26252,25432,15
+123636,CDA_Sensex_report,ShortTerm,NewYork,5523,25000,26
+123637,CDA_Sensex_report,SIP,California,5252,45000,25
+123638,MGK_Sensex_report,SIP,NewDelhi,8965,25432,25
+123639,MGK_Sensex_report,SIP,California,3654,25000,24
+123640,MGK_Sensex_report,SIP,NewDelhi,5656,45000,23
+123641,MGK_Sensex_report,ShortTerm,Hyderabad,25525,8965,22
+123642,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,25
+123643,MGK_Sensex_report,Daily,NewYork,5500,5656,27
+123644,MGK_Sensex_report,LongTerm,Hyderabad,5252,25525,22
+123645,NSC_Sensex _report,ShortTerm,California,17000,26252,5
+123646,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,25
+123647,NSC_Sensex _report,ShortTerm,NewYork,25432,5252,53
+123648,NSC_Sensex _report,ShortTerm,NewDelhi,25000,17000,15
+123649,NSC_Sensex _report,LongTerm,NewDelhi,45000,4500,26
+123650,NSC_Sensex _report,LongTerm,California,8965,25432,25
+123651,NSC_Sensex _report,ShortTerm,NewYork,3654,5321,24
+123652,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,23
+123653,NSC_Sensex _report,Daily,California,18500,5252,22
+123654,NSC_Sensex _report,SIP,California,5500,17000,21
+123655,NSC_Sensex _report,SIP,NewYork,28645,4500,20
+123656,NSC_Sensex _report,SIP,Hyderabad,26000,25432,19
+123657,NSC_Sensex _report,SIP,Hyderabad,49356,25000,18
+123658,NSC_Sensex _report,SIP,NewYork,9654,45000,17
+123659,NSC_Sensex _report,ShortTerm,NewDelhi,5000,8965,16
+123660,NSC_Sensex _report,ShortTerm,Hyderabad,18500,3654,15
+123661,NSC_Sensex _report,Daily,California,5500,5656,14
+123662,NSC_Sensex _report,LongTerm,California,28645,25525,13
+123663,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+123664,LSA_Sensex_report,ShortTerm,Hyderabad,49356,5500,12
+123665,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,25
+123666,LSA_Sensex_report,ShortTerm,California,5000,17000,27
+123667,LSA_Sensex_report,LongTerm,California,17000,1230,22
+123668,LSA_Sensex_report,LongTerm,NewDelhi,53220,45236,5
+123669,LSA_Sensex_report,SIP,California,4532,5632,25
+123670,MGK_Sensex_report,SIP,California,4500,25525,36
+123671,MGK_Sensex_report,ShortTerm,NewDelhi,25432,26252,45
+123672,MGK_Sensex_report,ShortTerm,California,25000,5523,46
+123673,MGK_Sensex_report,ShortTerm,NewDelhi,45000,5252,13
+123674,MGK_Sensex_report,ShortTerm,Hyderabad,8965,17000,11
+123675,MGK_Sensex_report,ShortTerm,NewDelhi,3654,4500,53
+123676,MGK_Sensex_report,SIP,NewYork,26000,25432,15
+123677,MGK_Sensex_report,SIP,Hyderabad,49356,25000,26
+123678,MGK_Sensex_report,LongTerm,California,9654,45000,25
+123679,MGK_Sensex_report,LongTerm,Hyderabad,5000,8965,24
+123680,MGK_Sensex_report,ShortTerm,NewYork,6464,4563,23
+123681,MGK_Sensex_report,Daily,NewDelhi,25600,45000,22
+123682,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+123683,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+123684,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+123685,LSA_Sensex_report,SIP,California,865,5656,25
+123686,LSA_Sensex_report,SIP,California,17000,4532,26
+123687,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+123688,LSA_Sensex_report,LongTerm,California,5689,2456,25
+123689,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+123690,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+123691,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+123692,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+123693,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+123694,CDA_Sensex_report,LongTerm,California,25525,25600,13
+123695,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+123696,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+123697,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+123698,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+123699,CDA_Sensex_report,SIP,California,4500,5500,25
+123700,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+123701,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+123702,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+123703,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+123704,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+123705,NSC_Sensex _report,SIP,California,45000,5000,25
+123706,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+123707,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+123708,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+123709,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+123710,LSA_Sensex_report,SIP,California,865,5656,25
+123711,LSA_Sensex_report,SIP,California,17000,4532,26
+123712,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+123713,LSA_Sensex_report,LongTerm,California,5689,2456,25
+123714,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+123715,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+123716,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+123717,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+123718,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+123719,CDA_Sensex_report,LongTerm,California,25525,25600,13
+123720,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+123721,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+123722,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+123723,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+123724,CDA_Sensex_report,SIP,California,4500,5500,25
+123725,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+123726,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+123727,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+123728,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+123729,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+123730,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+123731,MGK_Sensex_report,ShortTerm,California,4500,5500,12
+123732,MGK_Sensex_report,SIP,NewYork,25432,28645,25
+123733,MGK_Sensex_report,ShortTerm,NewDelhi,25000,26000,27
+123734,MGK_Sensex_report,ShortTerm,California,45000,49356,22
+123735,MGK_Sensex_report,Daily,NewYork,8965,9654,5
+123736,MGK_Sensex_report,SIP,Hyderabad,3654,5000,25
+123737,MGK_Sensex_report,SIP,California,5656,6464,36
+123738,MGK_Sensex_report,SIP,California,25525,25600,45
+123739,NSC_Sensex _report,SIP,NewYork,26252,27000,46
+123740,NSC_Sensex _report,SIP,Hyderabad,5500,6000,13
+123741,NSC_Sensex _report,ShortTerm,Hyderabad,5252,65000,11
+123742,NSC_Sensex _report,ShortTerm,NewYork,17000,18500,53
+123743,NSC_Sensex _report,Daily,NewDelhi,4500,5500,15
+123744,NSC_Sensex _report,LongTerm,Hyderabad,25432,28645,26
+123745,NSC_Sensex _report,ShortTerm,California,25000,26000,25
+123746,NSC_Sensex _report,ShortTerm,California,45000,49356,24
+123747,NSC_Sensex _report,ShortTerm,California,8965,9654,23
+123748,NSC_Sensex _report,ShortTerm,Hyderabad,3654,5000,22
+123749,NSC_Sensex _report,LongTerm,NewYork,17000,18500,25
+123750,NSC_Sensex _report,LongTerm,California,4500,5500,27
+123751,NSC_Sensex _report,SIP,California,25432,28645,22
+123752,NSC_Sensex _report,SIP,NewDelhi,25000,26000,5
+123753,NSC_Sensex _report,ShortTerm,NewDelhi,45000,49356,25
+123754,NSC_Sensex _report,ShortTerm,Hyderabad,8965,9654,36
+123755,NSC_Sensex _report,ShortTerm,NewDelhi,3654,5000,45
+123756,NSC_Sensex _report,ShortTerm,NewYork,5656,6464,46
+123757,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+123758,LSA_Sensex_report,SIP,California,26252,27000,11
+123759,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+123760,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123761,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123762,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123763,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123764,LSA_Sensex_report,Daily,California,25000,26000,23
+123765,LSA_Sensex_report,SIP,California,45000,49356,22
+123766,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+123767,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+123768,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+123769,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+123770,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+123771,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+123772,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+123773,CDA_Sensex_report,SIP,California,25100,26000,11
+123774,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+123775,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+123776,CDA_Sensex_report,SIP,California,26722,35000,43
+123777,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+123778,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+123779,CDA_Sensex_report,SIP,California,3654,19000,23
+123780,CDA_Sensex_report,SIP,California,5656,18000,25
+123781,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+123782,CDA_Sensex_report,SIP,California,4563,16005,25
+123783,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+123784,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+123785,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+123786,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+123787,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+123788,CDA_Sensex_report,SIP,California,26252,27000,11
+123789,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+123790,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+123791,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+123792,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+123793,CDA_Sensex_report,Daily,Hyderabad,25432,28645,24
+123794,NSC_Sensex _report,Daily,California,25000,26000,23
+123795,NSC_Sensex _report,SIP,California,45000,49356,22
+123796,NSC_Sensex _report,ShortTerm,NewDelhi,8965,9654,25
+123797,NSC_Sensex _report,LongTerm,California,4563,9654,23
+123798,NSC_Sensex _report,LongTerm,NewDelhi,45000,5000,25
+123799,NSC_Sensex _report,Daily,Hyderabad,8965,6464,26
+123800,NSC_Sensex _report,SIP,NewDelhi,3652,25600,25
+123801,NSC_Sensex _report,ShortTerm,NewYork,5656,27000,25
+123802,NSC_Sensex _report,SIP,Hyderabad,25525,5668,36
+123803,LSA_Sensex_report,LongTerm,California,26252,65000,54
+123804,LSA_Sensex_report,ShortTerm,Hyderabad,5523,18500,46
+123805,LSA_Sensex_report,ShortTerm,NewYork,5252,5500,13
+123806,LSA_Sensex_report,ShortTerm,NewDelhi,17000,28645,11
+123807,LSA_Sensex_report,ShortTerm,NewDelhi,5500,26000,53
+123808,LSA_Sensex_report,LongTerm,California,5252,18500,15
+123809,LSA_Sensex_report,LongTerm,NewYork,17000,5500,10
+123810,LSA_Sensex_report,SIP,Hyderabad,4500,28645,15
+123811,LSA_Sensex_report,SIP,California,25432,26000,12
+123812,LSA_Sensex_report,ShortTerm,California,25000,49356,25
+123813,LSA_Sensex_report,ShortTerm,NewYork,45000,9654,27
+123814,MGK_Sensex_report,ShortTerm,California,8965,5000,22
+123815,MGK_Sensex_report,ShortTerm,NewDelhi,3654,18500,5
+123816,MGK_Sensex_report,ShortTerm,Hyderabad,5656,5500,25
+123817,MGK_Sensex_report,SIP,Hyderabad,25525,28645,36
+123818,MGK_Sensex_report,SIP,California,26252,26000,45
+123819,MGK_Sensex_report,LongTerm,California,5500,49356,46
+123820,MGK_Sensex_report,LongTerm,NewDelhi,5252,9654,13
+123821,MGK_Sensex_report,ShortTerm,NewDelhi,17000,5000,11
+123822,MGK_Sensex_report,Daily,NewYork,4500,6464,53
+123823,MGK_Sensex_report,Daily,Hyderabad,25432,25600,15
+123824,MGK_Sensex_report,SIP,Kolkata,25000,27000,26
+123825,MGK_Sensex_report,ShortTerm,Hyderabad,45000,6000,25
+123826,MGK_Sensex_report,LongTerm,Kolkata,8965,65000,24
+123827,MGK_Sensex_report,ShortTerm,Kolkata,3654,18500,23
+123828,MGK_Sensex_report,SIP,Hyderabad,5656,5500,22
+123829,MGK_Sensex_report,SIP,NewDelhi,4532,28645,21
+123830,MGK_Sensex_report,ShortTerm,California,4563,26000,20
+123831,MGK_Sensex_report,ShortTerm,NewYork,2456,49356,19
+123832,MGK_Sensex_report,ShortTerm,Hyderabad,3214,9654,18
+123833,MGK_Sensex_report,ShortTerm,California,865,5000,17
+123834,MGK_Sensex_report,ShortTerm,California,17000,2456,16
+123835,NSC_Sensex _report,SIP,NewYork,4500,3214,15
+123836,NSC_Sensex _report,ShortTerm,California,25432,865,14
+123837,NSC_Sensex _report,SIP,NewDelhi,25000,17000,13
+123838,NSC_Sensex _report,ShortTerm,Hyderabad,45000,4500,15
+123839,NSC_Sensex _report,ShortTerm,Hyderabad,8965,25432,12
+123840,NSC_Sensex _report,Daily,California,3654,25000,25
+123841,NSC_Sensex _report,SIP,California,5656,45000,27
+123842,NSC_Sensex _report,SIP,NewDelhi,25525,8965,22
+123843,NSC_Sensex _report,SIP,NewDelhi,26252,3654,5
+123844,NSC_Sensex _report,SIP,NewYork,5500,5656,25
+123845,NSC_Sensex _report,SIP,Hyderabad,5252,25525,36
+123846,NSC_Sensex _report,ShortTerm,Kolkata,17000,26252,45
+123847,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,46
+123848,NSC_Sensex _report,Daily,Kolkata,25432,5252,13
+123849,NSC_Sensex _report,Daily,California,25000,17000,11
+123850,NSC_Sensex _report,SIP,California,45000,4500,53
+123851,NSC_Sensex _report,ShortTerm,NewDelhi,8965,25432,15
+123852,NSC_Sensex _report,SIP,California,3654,5321,26
+123853,NSC_Sensex _report,ShortTerm,NewYork,17000,5500,25
+123854,LSA_Sensex_report,ShortTerm,Hyderabad,18500,5252,24
+123855,LSA_Sensex_report,Daily,California,5500,17000,23
+123856,LSA_Sensex_report,SIP,California,28645,4500,22
+123857,LSA_Sensex_report,SIP,NewYork,26000,25432,25
+123858,LSA_Sensex_report,SIP,California,49356,25000,27
+123859,LSA_Sensex_report,SIP,NewDelhi,9654,45000,22
+123860,LSA_Sensex_report,SIP,Hyderabad,5000,8965,5
+123861,LSA_Sensex_report,ShortTerm,NewDelhi,18500,3654,25
+123862,LSA_Sensex_report,ShortTerm,California,5500,5656,36
+123863,LSA_Sensex_report,Daily,NewYork,28645,25525,45
+123864,LSA_Sensex_report,LongTerm,NewDelhi,26000,26252,46
+123865,LSA_Sensex_report,ShortTerm,California,49356,5500,13
+123866,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,11
+123867,CDA_Sensex_report,ShortTerm,Hyderabad,5000,17000,53
+123868,CDA_Sensex_report,ShortTerm,California,6464,4500,15
+123869,CDA_Sensex_report,LongTerm,California,25600,25432,26
+123870,CDA_Sensex_report,LongTerm,NewYork,27000,25000,25
+123871,CDA_Sensex_report,SIP,Hyderabad,6000,45000,24
+123872,CDA_Sensex_report,SIP,Hyderabad,65000,8965,23
+123873,CDA_Sensex_report,ShortTerm,NewYork,18500,3654,22
+123874,CDA_Sensex_report,ShortTerm,NewDelhi,5500,5656,25
+123875,CDA_Sensex_report,ShortTerm,Hyderabad,28645,4532,21
+123876,CDA_Sensex_report,ShortTerm,California,26000,4563,26
+123877,CDA_Sensex_report,ShortTerm,California,49356,2456,17
+123878,CDA_Sensex_report,SIP,California,9654,3214,14
+123879,CDA_Sensex_report,ShortTerm,Hyderabad,5000,865,13
+123880,CDA_Sensex_report,SIP,NewYork,4500,17000,16
+123881,CDA_Sensex_report,ShortTerm,California,25432,4500,11
+123882,CDA_Sensex_report,ShortTerm,California,25000,25432,15
+123883,CDA_Sensex_report,Daily,NewDelhi,45000,25000,16
+123884,CDA_Sensex_report,SIP,California,8965,45000,43
+123885,CDA_Sensex_report,SIP,California,3654,8965,21
+123886,CDA_Sensex_report,SIP,NewDelhi,5656,3654,22
+123887,CDA_Sensex_report,SIP,California,4532,5656,23
+123888,CDA_Sensex_report,SIP,NewDelhi,4563,25525,25
+123889,CDA_Sensex_report,ShortTerm,Hyderabad,2456,26252,26
+123890,NSC_Sensex _report,ShortTerm,NewDelhi,3214,5500,25
+123891,CDA_Sensex_report,ShortTerm,Kolkata,45000,8965,14
+123892,CDA_Sensex_report,ShortTerm,California,8965,3654,13
+123893,CDA_Sensex_report,LongTerm,Hyderabad,3652,5656,16
+123894,CDA_Sensex_report,LongTerm,Hyderabad,5656,4532,11
+123895,CDA_Sensex_report,SIP,NewYork,25525,4563,15
+123896,LSA_Sensex_report,SIP,NewDelhi,26252,2456,16
+123897,LSA_Sensex_report,LongTerm,Kolkata,5523,3214,43
+123898,LSA_Sensex_report,SIP,California,5252,865,21
+123899,LSA_Sensex_report,Daily,NewDelhi,17000,3654,22
+123900,LSA_Sensex_report,LongTerm,NewDelhi,5500,5656,23
+123901,LSA_Sensex_report,ShortTerm,California,5252,25525,25
+123902,LSA_Sensex_report,ShortTerm,NewYork,17000,26252,26
+123903,LSA_Sensex_report,ShortTerm,Hyderabad,8965,17000,26
+123904,LSA_Sensex_report,ShortTerm,California,3654,4500,25
+123905,LSA_Sensex_report,LongTerm,California,26000,26252,46
+123906,LSA_Sensex_report,LongTerm,NewYork,49356,5500,13
+123907,LSA_Sensex_report,SIP,Hyderabad,9654,5252,11
+123908,LSA_Sensex_report,SIP,Hyderabad,5000,17000,53
+123909,LSA_Sensex_report,ShortTerm,NewYork,6464,4500,15
+123910,LSA_Sensex_report,ShortTerm,NewDelhi,25600,25432,26
+123911,MGK_Sensex_report,ShortTerm,Hyderabad,27000,25000,25
+123912,MGK_Sensex_report,ShortTerm,California,6000,45000,24
+123913,MGK_Sensex_report,ShortTerm,California,65000,8965,23
+123914,MGK_Sensex_report,SIP,California,18500,3654,22
+123915,MGK_Sensex_report,ShortTerm,Hyderabad,5500,5656,25
+123916,MGK_Sensex_report,SIP,NewYork,28645,4532,21
+123917,MGK_Sensex_report,ShortTerm,California,26000,4563,26
+123918,MGK_Sensex_report,ShortTerm,California,49356,2456,17
+123919,MGK_Sensex_report,Daily,NewDelhi,9654,3214,14
+123920,MGK_Sensex_report,SIP,California,5000,865,13
+123921,MGK_Sensex_report,SIP,California,4500,17000,16
+123922,MGK_Sensex_report,SIP,NewDelhi,25432,4500,11
+123923,MGK_Sensex_report,SIP,California,25000,25432,15
+123924,MGK_Sensex_report,SIP,NewDelhi,45000,25000,16
+123925,MGK_Sensex_report,ShortTerm,Hyderabad,8965,45000,43
+123926,MGK_Sensex_report,ShortTerm,NewDelhi,3654,8965,21
+123927,MGK_Sensex_report,Daily,NewYork,45000,4500,53
+123928,MGK_Sensex_report,LongTerm,Hyderabad,8965,25432,15
+123929,MGK_Sensex_report,ShortTerm,California,3654,25000,26
+123930,MGK_Sensex_report,ShortTerm,Hyderabad,5656,45000,25
+123931,MGK_Sensex_report,ShortTerm,NewYork,25525,8965,24
+123932,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,23
+123933,MGK_Sensex_report,LongTerm,NewDelhi,5500,5656,22
+123934,MGK_Sensex_report,LongTerm,California,5252,25525,21
+123935,MGK_Sensex_report,SIP,NewYork,17000,26252,20
+123936,MGK_Sensex_report,SIP,Hyderabad,4500,5500,19
+123937,MGK_Sensex_report,ShortTerm,California,25432,5252,18
+123938,MGK_Sensex_report,ShortTerm,California,25000,17000,17
+123939,MGK_Sensex_report,ShortTerm,NewYork,45000,4500,16
+123940,MGK_Sensex_report,ShortTerm,California,8965,25432,15
+123941,MGK_Sensex_report,ShortTerm,NewDelhi,3654,5321,14
+123942,MGK_Sensex_report,SIP,California,17000,5500,13
+123943,MGK_Sensex_report,SIP,California,18500,5252,15
+123944,MGK_Sensex_report,LongTerm,NewDelhi,5500,17000,12
+123945,MGK_Sensex_report,LongTerm,California,28645,4500,25
+123946,MGK_Sensex_report,ShortTerm,NewDelhi,26000,25432,27
+123947,MGK_Sensex_report,Daily,Hyderabad,49356,25000,22
+123948,MGK_Sensex_report,Daily,NewDelhi,9654,45000,5
+123949,MGK_Sensex_report,SIP,NewYork,5000,8965,25
+123950,MGK_Sensex_report,ShortTerm,Hyderabad,18500,3654,36
+123951,MGK_Sensex_report,LongTerm,California,5500,5656,45
+123952,MGK_Sensex_report,ShortTerm,Hyderabad,28645,25525,46
+123953,MGK_Sensex_report,LongTerm,NewYork,26000,26252,13
+123954,LSA_Sensex_report,Daily,NewDelhi,49356,5500,11
+123955,LSA_Sensex_report,Daily,NewDelhi,9654,5252,53
+123956,LSA_Sensex_report,SIP,California,5000,17000,15
+123957,LSA_Sensex_report,ShortTerm,NewYork,45000,4500,26
+123958,LSA_Sensex_report,SIP,Hyderabad,8965,25432,25
+123959,LSA_Sensex_report,ShortTerm,California,3654,25000,24
+123960,LSA_Sensex_report,ShortTerm,California,5656,45000,23
+123961,LSA_Sensex_report,Daily,NewYork,25525,8965,22
+123962,NSC_Sensex _report,SIP,California,26252,3654,25
+123963,NSC_Sensex _report,SIP,NewDelhi,5632,2365,12
+123964,NSC_Sensex _report,SIP,NewYork,4521,1254,15
+123965,NSC_Sensex _report,SIP,California,6598,12365,18
+123966,NSC_Sensex _report,SIP,Hyderabad,5478,45780,26
+123967,NSC_Sensex _report,LongTerm,California,28645,5523,15
+123968,NSC_Sensex _report,Daily,NewYork,26000,5252,26
+123969,NSC_Sensex _report,Daily,California,49356,17000,25
+123970,NSC_Sensex _report,SIP,NewDelhi,9654,5500,24
+123971,NSC_Sensex _report,ShortTerm,California,5000,5252,23
+123972,NSC_Sensex _report,SIP,California,4500,17000,22
+123973,NSC_Sensex _report,ShortTerm,NewDelhi,25432,4500,25
+123974,NSC_Sensex _report,ShortTerm,California,25000,25432,21
+123975,NSC_Sensex _report,Daily,NewDelhi,45000,5500,26
+123976,NSC_Sensex _report,SIP,Hyderabad,8965,4532,17
+123977,NSC_Sensex _report,SIP,NewDelhi,3654,4563,14
+123978,NSC_Sensex _report,SIP,NewYork,45000,2456,13
+123979,NSC_Sensex _report,SIP,Hyderabad,8965,3214,16
+123980,NSC_Sensex _report,SIP,California,3654,865,11
+123981,NSC_Sensex _report,ShortTerm,Hyderabad,5656,3654,15
+123982,NSC_Sensex _report,ShortTerm,NewYork,25525,5656,16
+123983,NSC_Sensex _report,Daily,NewDelhi,26252,25525,43
+123984,NSC_Sensex _report,LongTerm,NewDelhi,5500,26252,21
+123985,NSC_Sensex _report,ShortTerm,California,1230,5500,22
+123986,NSC_Sensex _report,SIP,NewYork,45236,5252,23
+123987,CDA_Sensex_report,ShortTerm,Hyderabad,5632,17000,25
+123988,CDA_Sensex_report,LongTerm,California,25525,4500,26
+123989,CDA_Sensex_report,Daily,California,26252,25432,15
+123990,CDA_Sensex_report,ShortTerm,NewYork,5523,25000,26
+123991,CDA_Sensex_report,SIP,California,5252,45000,25
+123992,MGK_Sensex_report,SIP,NewDelhi,8965,25432,25
+123993,MGK_Sensex_report,SIP,California,3654,25000,24
+123994,MGK_Sensex_report,SIP,NewDelhi,5656,45000,23
+123995,MGK_Sensex_report,ShortTerm,Hyderabad,25525,8965,22
+123996,MGK_Sensex_report,ShortTerm,NewDelhi,26252,3654,25
+123997,MGK_Sensex_report,Daily,NewYork,5500,5656,27
+123998,MGK_Sensex_report,LongTerm,Hyderabad,5252,25525,22
+123999,NSC_Sensex _report,ShortTerm,California,17000,26252,5
+124000,NSC_Sensex _report,ShortTerm,Hyderabad,4500,5500,25
+124001,NSC_Sensex _report,ShortTerm,NewYork,25432,5252,53
+124002,NSC_Sensex _report,ShortTerm,NewDelhi,25000,17000,15
+124003,NSC_Sensex _report,LongTerm,NewDelhi,45000,4500,26
+124004,NSC_Sensex _report,LongTerm,California,8965,25432,25
+124005,NSC_Sensex _report,ShortTerm,NewYork,3654,5321,24
+124006,NSC_Sensex _report,ShortTerm,Hyderabad,17000,5500,23
+124007,NSC_Sensex _report,Daily,California,18500,5252,22
+124008,NSC_Sensex _report,SIP,California,5500,17000,21
+124009,NSC_Sensex _report,SIP,NewYork,28645,4500,20
+124010,NSC_Sensex _report,SIP,Hyderabad,26000,25432,19
+124011,NSC_Sensex _report,SIP,Hyderabad,49356,25000,18
+124012,NSC_Sensex _report,SIP,NewYork,9654,45000,17
+124013,NSC_Sensex _report,ShortTerm,NewDelhi,5000,8965,16
+124014,NSC_Sensex _report,ShortTerm,Hyderabad,18500,3654,15
+124015,NSC_Sensex _report,Daily,California,5500,5656,14
+124016,NSC_Sensex _report,LongTerm,California,28645,25525,13
+124017,NSC_Sensex _report,ShortTerm,California,26000,26252,15
+124018,LSA_Sensex_report,ShortTerm,Hyderabad,49356,5500,12
+124019,LSA_Sensex_report,ShortTerm,NewYork,9654,5252,25
+124020,LSA_Sensex_report,ShortTerm,California,5000,17000,27
+124021,LSA_Sensex_report,LongTerm,California,17000,1230,22
+124022,LSA_Sensex_report,LongTerm,NewDelhi,53220,45236,5
+124023,LSA_Sensex_report,SIP,California,4532,5632,25
+124024,MGK_Sensex_report,SIP,California,4500,25525,36
+124025,MGK_Sensex_report,ShortTerm,NewDelhi,25432,26252,45
+124026,MGK_Sensex_report,ShortTerm,California,25000,5523,46
+124027,MGK_Sensex_report,ShortTerm,NewDelhi,45000,5252,13
+124028,MGK_Sensex_report,ShortTerm,Hyderabad,8965,17000,11
+124029,MGK_Sensex_report,ShortTerm,NewDelhi,3654,4500,53
+124030,MGK_Sensex_report,SIP,NewYork,26000,25432,15
+124031,MGK_Sensex_report,SIP,Hyderabad,49356,25000,26
+124032,MGK_Sensex_report,LongTerm,California,9654,45000,25
+124033,MGK_Sensex_report,LongTerm,Hyderabad,5000,8965,24
+124034,MGK_Sensex_report,ShortTerm,NewYork,6464,4563,23
+124035,MGK_Sensex_report,Daily,NewDelhi,25600,45000,22
+124036,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+124037,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+124038,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+124039,LSA_Sensex_report,SIP,California,865,5656,25
+124040,LSA_Sensex_report,SIP,California,17000,4532,26
+124041,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+124042,LSA_Sensex_report,LongTerm,California,5689,2456,25
+124043,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+124044,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+124045,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+124046,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+124047,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+124048,CDA_Sensex_report,LongTerm,California,25525,25600,13
+124049,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+124050,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+124051,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+124052,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+124053,CDA_Sensex_report,SIP,California,4500,5500,25
+124054,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+124055,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+124056,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+124057,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+124058,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+124059,NSC_Sensex _report,SIP,California,45000,5000,25
+124060,NSC_Sensex _report,SIP,NewDelhi,8965,6464,26
+124061,LSA_Sensex_report,ShortTerm,NewYork,4563,45000,22
+124062,LSA_Sensex_report,ShortTerm,California,2456,8965,25
+124063,LSA_Sensex_report,ShortTerm,NewDelhi,3214,3654,23
+124064,LSA_Sensex_report,SIP,California,865,5656,25
+124065,LSA_Sensex_report,SIP,California,17000,4532,26
+124066,LSA_Sensex_report,LongTerm,NewDelhi,7856,4563,25
+124067,LSA_Sensex_report,LongTerm,California,5689,2456,25
+124068,LSA_Sensex_report,ShortTerm,NewDelhi,4532,3214,36
+124069,LSA_Sensex_report,Daily,Hyderabad,12536,865,54
+124070,CDA_Sensex_report,Daily,NewDelhi,1230,17000,46
+124071,CDA_Sensex_report,SIP,NewYork,45236,45962,13
+124072,CDA_Sensex_report,ShortTerm,Hyderabad,5632,5632,11
+124073,CDA_Sensex_report,LongTerm,California,25525,25600,13
+124074,CDA_Sensex_report,ShortTerm,Hyderabad,26252,27000,11
+124075,CDA_Sensex_report,LongTerm,NewYork,5523,5668,53
+124076,CDA_Sensex_report,Daily,NewDelhi,5252,65000,15
+124077,CDA_Sensex_report,Daily,NewDelhi,17000,18500,26
+124078,CDA_Sensex_report,SIP,California,4500,5500,25
+124079,CDA_Sensex_report,ShortTerm,NewYork,25432,28645,24
+124080,CDA_Sensex_report,SIP,Hyderabad,25000,26000,23
+124081,NSC_Sensex _report,ShortTerm,California,45000,49356,22
+124082,NSC_Sensex _report,ShortTerm,California,8965,9654,25
+124083,NSC_Sensex _report,Daily,NewYork,4563,9654,23
+124084,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+124085,LSA_Sensex_report,SIP,California,26252,27000,11
+124086,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+124087,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124088,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124089,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124090,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+124091,LSA_Sensex_report,Daily,California,25000,26000,23
+124092,LSA_Sensex_report,SIP,California,45000,49356,22
+124093,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+124094,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+124095,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+124096,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+124097,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+124098,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+124099,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+124100,CDA_Sensex_report,SIP,California,25100,26000,11
+124101,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+124102,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+124103,CDA_Sensex_report,SIP,California,26722,35000,43
+124104,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+124105,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+124106,CDA_Sensex_report,SIP,California,3654,19000,23
+124107,CDA_Sensex_report,SIP,California,5656,18000,25
+124108,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+124109,CDA_Sensex_report,SIP,California,4563,16005,25
+124110,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+124111,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+124112,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+124113,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+124114,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+124115,CDA_Sensex_report,SIP,California,26252,27000,11
+124116,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+124117,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124118,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124119,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124120,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+124121,LSA_Sensex_report,SIP,California,26252,27000,11
+124122,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+124123,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124124,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124125,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124126,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+124127,LSA_Sensex_report,Daily,California,25000,26000,23
+124128,LSA_Sensex_report,SIP,California,45000,49356,22
+124129,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+124130,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+124131,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+124132,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+124133,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+124134,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+124135,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+124136,CDA_Sensex_report,SIP,California,25100,26000,11
+124137,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+124138,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+124139,CDA_Sensex_report,SIP,California,26722,35000,43
+124140,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+124141,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+124142,CDA_Sensex_report,SIP,California,3654,19000,23
+124143,CDA_Sensex_report,SIP,California,5656,18000,25
+124144,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+124145,CDA_Sensex_report,SIP,California,4563,16005,25
+124146,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+124147,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+124148,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+124149,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+124150,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+124151,CDA_Sensex_report,SIP,California,26252,27000,11
+124152,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+124153,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124154,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124155,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124156,NSC_Sensex _report,ShortTerm,Hyderabad,25525,25600,13
+124157,LSA_Sensex_report,SIP,California,26252,27000,11
+124158,LSA_Sensex_report,SIP,Hyderabad,5500,6000,53
+124159,LSA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124160,LSA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124161,LSA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124162,LSA_Sensex_report,Daily,Hyderabad,25432,28645,24
+124163,LSA_Sensex_report,Daily,California,25000,26000,23
+124164,LSA_Sensex_report,SIP,California,45000,49356,22
+124165,LSA_Sensex_report,ShortTerm,NewDelhi,8965,9654,25
+124166,LSA_Sensex_report,LongTerm,NewDelhi,3654,5000,21
+124167,LSA_Sensex_report,ShortTerm,NewYork,5656,6464,26
+124168,LSA_Sensex_report,LongTerm,Hyderabad,4532,5623,17
+124169,LSA_Sensex_report,Daily,Kolkata,4563,5368,14
+124170,CDA_Sensex_report,ShortTerm,Hyderabad,2456,5632,13
+124171,CDA_Sensex_report,ShortTerm,Kolkata,3214,8956,16
+124172,CDA_Sensex_report,SIP,California,25100,26000,11
+124173,CDA_Sensex_report,SIP,NewYork,26000,27000,15
+124174,CDA_Sensex_report,SIP,NewDelhi,29822,30000,16
+124175,CDA_Sensex_report,SIP,California,26722,35000,43
+124176,CDA_Sensex_report,SIP,NewYork,45000,21000,21
+124177,CDA_Sensex_report,SIP,Hyderabad,8965,13000,22
+124178,CDA_Sensex_report,SIP,California,3654,19000,23
+124179,CDA_Sensex_report,SIP,California,5656,18000,25
+124180,CDA_Sensex_report,SIP,NewYork,4532,21000,26
+124181,CDA_Sensex_report,SIP,California,4563,16005,25
+124182,CDA_Sensex_report,ShortTerm,NewDelhi,45000,49356,25
+124183,CDA_Sensex_report,ShortTerm,Hyderabad,8965,9654,36
+124184,CDA_Sensex_report,ShortTerm,NewDelhi,3652,5000,54
+124185,CDA_Sensex_report,ShortTerm,NewYork,5656,6464,46
+124186,CDA_Sensex_report,ShortTerm,Hyderabad,25525,25600,13
+124187,CDA_Sensex_report,SIP,California,26252,27000,11
+124188,CDA_Sensex_report,SIP,Hyderabad,5523,5668,53
+124189,CDA_Sensex_report,LongTerm,NewYork,5252,65000,15
+124190,CDA_Sensex_report,LongTerm,NewDelhi,17000,18500,26
+124191,CDA_Sensex_report,ShortTerm,Hyderabad,4500,5500,25
+124192,LSA_Sensex_report,SIP,Hyderabad,3654,5000,46
+124193,LSA_Sensex_report,SIP,Hyderabad,5656,6464,13
+124194,LSA_Sensex_report,ShortTerm,NewYork,25525,25600,11
+124195,LSA_Sensex_report,ShortTerm,NewDelhi,26252,27000,53
+124196,LSA_Sensex_report,Daily,Hyderabad,5500,6000,15
+124197,LSA_Sensex_report,LongTerm,California,5252,65000,26
+124198,LSA_Sensex_report,ShortTerm,California,17000,18500,25
+124199,MGK_Sensex_report,ShortTerm,California,4500,5500,24
+124200,MGK_Sensex_report,ShortTerm,Hyderabad,25432,28645,23
+124201,MGK_Sensex_report,ShortTerm,NewYork,25000,26000,22
+124202,MGK_Sensex_report,LongTerm,California,45000,49356,21
+124203,MGK_Sensex_report,LongTerm,California,8965,9654,20
+124204,MGK_Sensex_report,SIP,NewDelhi,3654,5000,19
+124205,MGK_Sensex_report,SIP,NewDelhi,5656,6464,18
+124206,MGK_Sensex_report,ShortTerm,Hyderabad,4532,5623,17
+124207,MGK_Sensex_report,ShortTerm,Hyderabad,4563,5368,16
+124208,MGK_Sensex_report,ShortTerm,NewYork,2456,5632,15
+124209,MGK_Sensex_report,ShortTerm,NewDelhi,3214,8956,14
+124210,MGK_Sensex_report,ShortTerm,Hyderabad,865,5432,13
+124211,MGK_Sensex_report,SIP,NewDelhi,17000,18500,15
+124212,MGK_Sensex_report,LongTerm,California,4569,6547,20
+121213,NSC_Sensex _report,Daily,NewDelhi,25525,25600,10
